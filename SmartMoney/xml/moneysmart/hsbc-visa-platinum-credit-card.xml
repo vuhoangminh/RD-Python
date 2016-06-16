@@ -1,0 +1,41 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="5" RatingDesc="">
+    <Feature>$1 = 1 Rewards point</Feature>
+    <Feature>1% cash rebates on all dining spend with min. S$400 spend/month for all 3 months in a calendar quarter</Feature>
+    <Feature>2% cash rebates on all dining spend with min. S$800 spend/month for all 3 months in a calendar quarter</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="4" RatingDesc="">
+    <Feature>Weekdays Movie Card at $70 for 10 weekday movie ticket (save up to $15)</Feature>
+    <Feature>All Days Movie Card at $85 for 10 any day tickets (save up to $30)</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="4" RatingDesc="">
+    <Feature>Up to 20.2% in savings at Shell and Caltex stations</Feature>
+    <Feature>16% instant discount Caltex stations (5% site discount + 9% HSBC card discount + 2% outdoor fuel payment discount* + 3% or 5% cash rebate)</Feature>
+    <Feature>14% instant discount at Shell stations (5% site discount + 5% shell escape discount + 4% HSBC card discount)</Feature>
+    <Feature>3% or 5% in cash rebates (min. spend $400 or $800/month respectively for all 3 months)</Feature>
+    <Feature>*Outdoor Fuel Payment discount valid till 30 April</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="3" RatingDesc="">
+    <Feature>3% cash rebates on all grocery spend with min. S$400 spend/month for all 3 months in a calendar quarter</Feature>
+    <Feature>5% cash rebates on all grocery spend with min. S$800 spend/month for all 3 months in a calendar quarter</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="3" RatingDesc="">
+    <Feature>$1 = 1 Rewards point</Feature>
+    <Feature>Earn HSBC Rewards points when you pay your taxes with your credit card</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>5% cash rebate on Recurring Mobile/Cable TV/Internet Bill Payment (with min. $400 spend/month in a quarter)</Feature>
+    <Feature>5% or 3% cash rebates on all grocery spend (with min. $800 or $400 spend/month in a quarter)</Feature>
+    <Feature>5% or 3% cash rebates at all Shell and Caltex stations (with min. $800 or $400 spend/month in a quarter)</Feature>
+    <Feature>2% or 1% cash rebates on dining (with min. $800 or $400 spend/month in a quarter) Cash rebates capped at S$60 per Account per Quarter</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$40,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>Complimentary</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$180</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver, subsequent years waived with min. spend of $12,500 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

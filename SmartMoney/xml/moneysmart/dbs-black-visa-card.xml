@@ -1,0 +1,27 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="3" RatingDesc="">
+    <Feature>Earn 3X Rewards (3 DBS Points or 6 miles for every S$5 spend) for all local contactless Visa payWave transactions</Feature>
+    <Feature>1X DBS Point for all other transactions</Feature>
+    <Feature>1-for-1 deals and exclusive dining offers at Singapore's trendiest nightspots and restaurants</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>14% savings at Esso (5% site + 5% loyalty + 4% DBS Cards)</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="3" RatingDesc="">
+    <Feature>Earn 3X Rewards (3 DBS Points or 6 miles for every S$5 spend) for all local contactless Visa payWave transactions</Feature>
+    <Feature>1X DBS Point for all other transactions</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>Earn 3X Rewards (3 DBS Points or 6 miles for every S$5 spend) for all local contactless Visa payWave transactions</Feature>
+    <Feature>1X DBS Point for all other transactions</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$48,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$48,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

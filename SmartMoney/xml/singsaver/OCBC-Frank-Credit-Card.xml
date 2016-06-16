@@ -1,0 +1,71 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Doubles as an ATM and EZ-Link Card with an auto top-up function.</Feature>
+    <Feature>6% rebate when shopping with selected online merchants.</Feature>
+    <Feature>Exclusive Frank card member deals with selected merchant partners.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Accumulate a minimum spend of S$500 a month for the 6% rebate, otherwise 0.5% rebate on all spend.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.83%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">6.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 32.1</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.80%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 32.1</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.80%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>25.92% / 28.92%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>24 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>S$50 or 3% of the Total Balance, whichever is higher, and any overdue amount.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 45,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

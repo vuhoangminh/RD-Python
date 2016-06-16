@@ -1,0 +1,74 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Get a quarterly service fee waiver of S$5 when the card is charged once every 3 months.</Feature>
+    <Feature>Track expenses online 24/7 conveniently.</Feature>
+    <Feature>1% cashbacks on all purchases.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Tertiary student card for students aged 18 and above.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">Receive a stylish Adidas wristwatch worth S$120.</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Charge any amount to the card within 1 month of card approval.
+                                                    2. Limited to only the first 500 successful applicants.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 20</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Quarterly service fee of SGD 5</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 20</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Quarterly service fee of SGD 5</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>24% / 24%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>24% / 24%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of statement balance or S$20.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  50</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000 
+                                                Student Card</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

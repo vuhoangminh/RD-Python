@@ -1,0 +1,70 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Unlimited complimentary Priority Pass membership access to 700 VIP airport lounges globally</Feature>
+    <Feature>Comprehensive travel insurance programme covering over 20 benefits of up to US$2 million (annual value worth S$988^). Protected against unforeseen travel events like emergency evacuation and repatriation, medical expenses, trip cancellation, loss of  baggage/travel documents, rental car excess, and personal liability to third party damages.</Feature>
+    <Feature>Unlimited access to one-way limousine transfer to the airport and  expedited immigration clearance at key airports in Asia</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>^Based on exclusively tailored benefits for HSBC Visa Infinite cardholders on extended family plan basis. Charge full travel expense to the HSBC Visa Infinite card to enjoy automatic coverage.</Feature>
+    <Feature>Unlimited complimentary one-way limousine transfer to the airport and expedited immigration clearance services require a minimum S$5,000 quarterly spending.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">2 options: 
+                                                    1. Bose SoundTouch® 20 Series III Wireless Music System worth S$699&amp;nbsp;OR
+
+                                                    2. 30,000 air miles redeemable with over 30 leading airlines</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">-</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">S$1 = Up to 1.5 airmiles</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">2.00%</Feature>
+    <Feature Name="Airmiles">S$1 = Up to 2 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = Up to 1.5 airmiles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = Up to 1.5 airmiles</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = Up to 1.5 airmiles</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">3 years</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 488</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>No fee waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 488</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>No fee waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>-</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

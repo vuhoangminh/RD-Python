@@ -1,0 +1,73 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Receive annual fee waiver for 2 years.</Feature>
+    <Feature>Card is automatically enrolled for Ez-Reload.</Feature>
+    <Feature>Earn 3x DBS Points on Online Purchases, Overseas spend and Visa payWave transactions. Earn 3x DBS Points at travel sites such as Agoda, AirAsia, AirBnB, Expedia, JetStar, PandaBed, TigerAir and Scoot.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Each EZ-Reload amount is set at S$40 and a convenience fee of S$0.25 may be chargeable by EZ-Link for each successful EZ-Reload transaction.</Feature>
+    <Feature>Earn 1 DBS point for every S$5 charged to the card.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">Up to S$120 Cashback:
+                                                    1. S$70 Cashback when you charge a min. of S$700 per month for the first 2 months AND
+                                                    2. S$50 Cashback when you apply for DBS Cashline at the same time</FeatureDetails>
+      <FeatureRequire Name="Conditions">Apply for the card before 31 March 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31-Mar-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.46%</Feature>
+    <Feature Name="Airmiles">S$1 = 0.4 airmile</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.17%</Feature>
+    <Feature Name="Airmiles">S$1 = 0.4 airmile</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.17%</Feature>
+    <Feature Name="Airmiles">S$1 = 0.4 airmile</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 128.4</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 64.20</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 128.4</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 64.20</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25.9% / 28.9%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of statement balance or S$50.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 45,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

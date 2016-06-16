@@ -1,0 +1,72 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>10% off house brands at all Cold Storage, Giant and Guardian stores.</Feature>
+    <Feature>Earn up to 10% SMART$ rebate for all retail and online transactions made at Cold Storage, Market Place, Jasons, Giant and Guardian.</Feature>
+    <Feature>Earn 0.5% SMART$ rebate all transactions at over 600 participating outlets and use it to offset subsequent purchases.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>enjoyable at Giant IMM, Parkway, Tampines and VivoCity.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">S$50 Cash Credit for your first UOB card</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Limited to first 600 applicants who had never held a UOB Principal Card in the last 6 months prior to 1 Jan 2016. 2. Charge a minimum amount of S$600 within the first 30 days of card approval. 3. Promotion is not valid for UOB PRVI Miles American Express® Card, UOB PRVI Miles World MasterCard Card and UOB PRVI Miles Visa Card application. 4. Promotion period from 1 January 2016 to 31 March 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 85.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 53.50 (First card free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 85.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 53.50 (First card free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 25%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>21 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of current balance or $50, whichever is higher, plus any overdue amounts.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 40,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

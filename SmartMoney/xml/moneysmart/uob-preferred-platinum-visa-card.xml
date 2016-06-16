@@ -1,0 +1,38 @@
+<CreaditDetails>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>$5 = UNI$1</Feature>
+    <Feature>Earn rewards faster with 10X UNI$ when you make online purchases</Feature>
+    <Feature>Be rewarded 10X UNI$ every time you pay using Visa payWave</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="4" RatingDesc="">
+    <Feature>2% SMART$ rebate + up to 16% petrol discount at Caltex, and 5% savings at SPC</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="3" RatingDesc="">
+    <Feature>Enjoy 2% rebate at Metro, World of Sports and Winter Time</Feature>
+    <Feature>Enjoy 3% rebate at bYSI, ColorWash, Crocodile, DHL, and Sephora</Feature>
+    <Feature>Enjoy 5% rebate at Tissot</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="2" RatingDesc="">
+    <Feature>10X UNI$ on online purchases and entertainment</Feature>
+    <Feature>10X UNI$ on Visa payWave</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="1" RatingDesc="">
+    <Feature>Enjoy 0.5% SMART$ rebate at Cold Storage, Giant, Jasons and Market Place</Feature>
+  </Details>
+  <Details Name="Dining" Rating="1" RatingDesc="">
+    <Feature>10% rebate at Coffee Bean &amp; Tea Leaf and Beanstro</Feature>
+    <Feature>Enjoy 3% rebate at Bread Society, Bengawan Solo, BreadTalk, Hard Rock Cafe and Fragrance Foodstuff</Feature>
+    <Feature>Enjoy 2% rebate at Polar Puffs &amp; Cakes</Feature>
+    <Feature>Be rewarded 10X UNI$ every time you pay using Visa payWave</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$40,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver for Principal and second Supplementary card, perpetual fee waiver for first supplementary card</FeatureRequire></Feature>
+    <Feature>Annual Interest Rate/ APR<FeatureRequire>25%</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

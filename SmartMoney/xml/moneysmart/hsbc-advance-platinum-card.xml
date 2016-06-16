@@ -1,0 +1,25 @@
+<CreaditDetails>
+  <Details Name="Entertainment" Rating="5" RatingDesc="">
+    <Feature>Weekdays Movie Card at $70 for 10 weekday movie tickets (save up to $15)</Feature>
+    <Feature>All Days Movie Card at $85 for 10 any day tickets (save up to $40)</Feature>
+    <Feature>10X Rewards points on online, dining and entertainment</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>$1 = 1 Reward Point</Feature>
+    <Feature>10X Rewards points on online, dining and entertainment</Feature>
+  </Details>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>$1 = 1 Reward Point</Feature>
+    <Feature>10X Rewards points on online, dining and entertainment</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>14% instant discount at all Shell and Caltex stations</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$40,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Principal)<FeatureRequire>Perpetual annual fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

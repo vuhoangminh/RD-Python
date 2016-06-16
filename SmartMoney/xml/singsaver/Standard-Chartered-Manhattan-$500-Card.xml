@@ -1,0 +1,71 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Earn 0.25% on everything you spend, with a maximum cap of S$800 per annum.</Feature>
+    <Feature>Annual fee waived for a year.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Tertiary student card for students aged 18 and above. Parent's or guardian's signature is only required for students who are below 21.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.25%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.25%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.25%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.25%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 30</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 30</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>22 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>$50 or 1% of principal plus interest, fees and charges; plus any overlimit amount and past due amount.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 18,000 
+                                                Working adults require an annual income of at least S$18,000. No minimum income for tertiary students. Foreigners cannot apply.</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

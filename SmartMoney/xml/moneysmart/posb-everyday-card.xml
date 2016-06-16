@@ -1,0 +1,30 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="5" RatingDesc="">
+    <Feature>Up to 20.1% savings on petrol at SPC (5% POSB/DBS discount + 10% SPC&amp;U Card discount + 6% POSB Everyday cash rebate)</Feature>
+    <Feature>0.3% on everything else</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="5" RatingDesc="">
+    <Feature>Get 5% cash rebate when you shop for your groceries at Sheng Siong</Feature>
+    <Feature>0.3% on everything else</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="4" RatingDesc="">
+    <Feature>Up to 5% cash rebate with everyday partners such as Sheng Siong, SPC, POPULAR, SP Services, StarHub and EZ-Reload</Feature>
+    <Feature>2% cash rebate on overseas spend (min spend of $1,000, capped at Daily$10 per calendar month)</Feature>
+    <Feature>3% cash rebate on flights purchased at AirAsia.com (min charge of $300 in a single transaction)</Feature>
+    <Feature>0.3% on everything else</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>3% cash rebate at Watsons</Feature>
+    <Feature>1% cash rebate at POPULAR and UrbanWrite</Feature>
+    <Feature>0.3% on everything else</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$19.26</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$38.52</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

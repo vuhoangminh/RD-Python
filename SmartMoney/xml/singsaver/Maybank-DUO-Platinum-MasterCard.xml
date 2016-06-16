@@ -1,0 +1,72 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>5% cashback on petrol charges in Singapore and Malaysia.</Feature>
+    <Feature>Worry-free shopping when paying for purchases via instalment plans, even at shops that do not accept credit cards through Maybank EzyPay and FlexiPay programmes.</Feature>
+    <Feature>Convert TREATS Points to DUO dollars, which can be used to redeem for DUO Rewards, or to offset the purchase price of Subaru or Nissan cars.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>If canceled within the first 9 months, an activation fee will be charged along with the S$50 welcome credit.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">S$50 cash credit</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Apply for and charge a minimum of S$500 on card within the first month</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.50%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 120</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 120</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>24% / 24*%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>24% / 24%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of statement balance or S$20.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  50</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 60,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

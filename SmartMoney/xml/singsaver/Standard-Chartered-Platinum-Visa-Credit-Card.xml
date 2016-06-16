@@ -1,0 +1,72 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Get approval-in-principle in 60 seconds. Exclusive dining, shopping and travel privileges with The Good Life. Enjoy golf privileges all year round and access to 24-hour Platinum conceirge service.</Feature>
+    <Feature>Earn up to 300 reward points per month on existing banking relationships in deposits, mortgage, investments, when S$250 is charged to Platinum Credit Card.</Feature>
+    <Feature>Earn 2 points per S$1 charged to the credit card for spend of at least S$1,000 per month. Earn 1 point per S$1 charged for spend less than S$1,000 per month.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">S$138 Cashback OR
+                                                    S$100 Cashback</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. S$138 Cashback if the application is submitted online.
+                                                    2. S$100 Cashback if the application is submitted through other channels.
+                                                    3. Promotion is valid till 30 June 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">30-Jun-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.96%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.40%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.63%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.63%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.63%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 180</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 3 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0 (up to 5)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>3.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 180</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 3 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0 (up to 5)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>3.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>24.455% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>22 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>$50 or 3% of principal plus interest, fees and charges; plus any overlimit amount and past due amount.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 60,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

@@ -1,0 +1,31 @@
+<CreaditDetails>
+  <Details Name="Entertainment" Rating="5" RatingDesc="">
+    <Feature>Complimentary green fees and privileged access to over 40 clubs in Singapore, Philippines, Malaysia, Indonesia and Thailand</Feature>
+    <Feature>Complimentary drinks at over a dozen of Singapore's most fashionable bars including Bitters &amp; Love, Maison Ikkoku and The Mad Men Attic Bar</Feature>
+  </Details>
+  <Details Name="Dining" Rating="5" RatingDesc="">
+    <Feature>Receive a complimentary Palate Membership worth S$457.96 (inclusive of GST), which entitles you to up to 50% savings at a wide selection of popular restaurants.</Feature>
+    <Feature>Receive a complimentary The Far Card Classic Membership worth S$425 (inclusive of GST), which entitles you to special savings for unlimited visits at your choice of 11 restaurants at Fairmont Singapore, SwissÃ´tel The Stamford Singapore, Equinox Complex and SwissÃ´tel Merchant Court.</Feature>
+    <Feature>Get up to 50% off at over 60 of Singapore's best restaurants with American Express Selects</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="5" RatingDesc="">
+    <Feature>Get 10X Membership points at over 300 Platinum Partner outlets including G2000, Topshop and Harvey Norman</Feature>
+    <Feature>90-days return guarantee, return almost any purchase made in Singapore for a refund up to S$800 per item</Feature>
+    <Feature>Redeem vouchers with points at various shops including Dorothy Perkins, TOPSHOP, Ben Sherman, Robinsons, Isetan, OG, Courts and many more</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>$1.60 = 2 Membership points</Feature>
+    <Feature>Get 10X Membership points at over 300 Platinum Partner outlets including G2000, Topshop and Harvey Norman</Feature>
+    <Feature>No expiry for Membership points</Feature>
+    <Feature>Redeem points from over 200 rewards in the Membership Rewards Catelogue, ranging from fine-dining, fashion to electronics</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$50,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$160.50</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$321.00</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>Perpetual fee waiver for first 2 supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

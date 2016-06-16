@@ -1,0 +1,41 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="5" RatingDesc="">
+    <Feature>3% Cashback on Local Weekday Dining (Mondays to Fridays) (Hotel Dining till 31 Mar 2016)</Feature>
+    <Feature>3% Cashback on Overseas Dining (Everyday)</Feature>
+    <Feature>6% Cashback on Local Weekend Dining (Sat and Sun) (Hotel Dining till 31 Mar 2016)</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="5" RatingDesc="">
+    <Feature>6% Cashback on Weekend Dining (Hotel Dining till 31 Mar 2016)</Feature>
+    <Feature>3% Cashback on Weekday Dining and Overseas Dining (Hotel Dining till 31 Mar 2016)</Feature>
+    <Feature>3% Cashback on Grocery and Recurring Telecommunications bill</Feature>
+    <Feature>Get 3% Cashback on all Online spend (travel, fashion, movie tickets, etc.)</Feature>
+    <Feature>Up to 18.3% Fuel Savings at selected petrol stations</Feature>
+    <Feature>Minimum spend of $600/month, $80 cap /month. For spend less than $600, a flat 0.3% cashback is awarded</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="5" RatingDesc="">
+    <Feature>Up to 18.3% Fuel Savings / 14% instant discount at Caltex and Esso, (14% onsite and OCBC 365 discount + 5% Cashback*)</Feature>
+    <Feature>5% Cashback at all other petrol stations</Feature>
+    <Feature>*Minimum spend of $600/month, $80 cap /month</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="4" RatingDesc="">
+    <Feature>3% rebates on online spending with min. spend $600 in a month</Feature>
+    <Feature>4 Golden Village regular movie tickets for the price of 3</Feature>
+    <Feature>0.3% on all other spend</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="3" RatingDesc="">
+    <Feature>3% Cashback on Grocery Shopping at all supermarkets islandwide</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="3" RatingDesc="">
+    <Feature>Get 3% Cashback on all Online spend (travel, fashion, movie tickets, etc.)</Feature>
+    <Feature>0.3% on all other spend</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver for both Principal and Supplementary cards, subsequent years waived for Principal card with min. spend of $5,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

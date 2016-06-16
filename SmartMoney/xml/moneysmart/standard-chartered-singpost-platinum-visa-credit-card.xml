@@ -1,0 +1,32 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>7% cashback on eligible online purchases, 0.2% on all other spend</Feature>
+    <Feature>Enjoy exclusive dining privileges with The Good LifeÂ®</Feature>
+    <Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="3" RatingDesc="">
+    <Feature>Enjoy 7% CashBack on eligible online spending (min. $600 spend per month)</Feature>
+    <Feature>10% off Speedpost Priority Service package, 5% off SMARTPAC with minimum order of three pieces</Feature>
+    <Feature>vPost - 30% off shipment for new customers and 20% off for subsequent shipments</Feature>
+    <Feature>Omigo - $20 off with minimum spend of $80 for new customers and 15% off subsequent purchases</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="3" RatingDesc="">
+    <Feature>7% CashBack on eligible online purchases (min. $600 spend/month)</Feature>
+    <Feature>2% CashBack on supermarket purchases (min. $600 spend/month)</Feature>
+    <Feature>CashBack up to $720 a year</Feature>
+    <Feature>0.2% CashBack on other retail purchases</Feature>
+    <Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="3" RatingDesc="">
+    <Feature>Get 2% CashBack on supermarket purchases</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Interest Rate<FeatureRequire>24.46 %</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$180</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

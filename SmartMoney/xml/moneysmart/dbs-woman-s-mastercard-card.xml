@@ -1,0 +1,30 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="4" RatingDesc="">
+    <Feature>$5 = 1X DBS Point</Feature>
+    <Feature>$5 = 10X DBS Points for online retail spend</Feature>
+    <Feature>Additional 9X DBS Points are only applicable to the first S$2,000 online retail spend every calendar month</Feature>
+    <Feature>$5 = 3X DBS Points for overseas retail spend</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="2" RatingDesc="">
+    <Feature>$5 = 1X DBS Point</Feature>
+    <Feature>$5 = 10X DBS Points for online retail spend</Feature>
+    <Feature>Additional 9X DBS Points are only applicable to the first S$2,000 online retail spend every calendar month</Feature>
+    <Feature>$5 = 3X DBS Points for overseas retail spend</Feature>
+    <Feature>Complimentary Access to selected True Fitness and True Yoga Centres twice a month</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="2" RatingDesc="">
+    <Feature>$5 = 1X DBS Point</Feature>
+    <Feature>$5 = 10X DBS Points for online retail spend</Feature>
+    <Feature>Additional 9X DBS Points are only applicable to the first S$2,000 online retail spend every calendar month</Feature>
+    <Feature>$5 = 3X DBS Points for overseas retail spend</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$80,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$80,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver, subsequent years waived with min. spend of $25,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

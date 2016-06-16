@@ -1,0 +1,32 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="5" RatingDesc="">
+    <Feature>Earn 5% cashback with no limit with Dining and Leisure as your chosen cashback category, and 1% cashback on all other spend</Feature>
+    <Feature>Dining &amp; Leisure comprise of restaurants, hotels, bars and cinemas</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="5" RatingDesc="">
+    <Feature>5% cash rebate on Dining &amp; Leisure, Travel, Shopping or Groceries. Your choice, every calendar quarter</Feature>
+    <Feature>1% cash rebate on all other spend</Feature>
+    <Feature>Choose how you earn cash rebate based on your spending habits. No minimum spend and no cap on total accumulated cash rebate</Feature>
+    <Feature>Dining &amp; Leisure â€“ Restaurants, hotels, bars and cinemas / Travel â€“ Airlines, travel agencies and online travel portals / Shopping â€“ Fashion boutiques, online fashion stores / Groceries â€“ Supermarkets</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="5" RatingDesc="">
+    <Feature>Earn 5% cashback with no limit with grocery as your chosen cashback category, and 1% cashback on all other spend</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="4" RatingDesc="">
+    <Feature>Earn 5% cashback with no limit with shopping as your chosen cashback category, and 1% cashback on all other spend</Feature>
+    <Feature>Shopping comprises of fashion boutiques and online fashion stores</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="3" RatingDesc="">
+    <Feature>Earn 5% cashback with no limit with Dining and Leisure as your chosen cashback category, and 1% cashback on all other spend</Feature>
+    <Feature>Dining &amp; Leisure comprise of restaurants, hotels, bars and cinemas</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$80,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$80,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$90.00</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$180.00</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver for both Principal and Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

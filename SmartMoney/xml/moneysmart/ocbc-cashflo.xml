@@ -1,0 +1,26 @@
+<CreaditDetails>
+  <Details Name="Entertainment" Rating="4" RatingDesc="">
+    <Feature>Enjoy $1 off movie tickets at Shaw Theatres, and $26 movie package (U.P. $35.70) consisting of 2 regular movie tickets, 2 drinks and 1 popcorn</Feature>
+    <Feature>Buy 4 movie tickets for the price of 3 at Golden Village</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>Get up to 14% upfront discount at Esso and Caltex</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="3" RatingDesc="">
+    <Feature>1% cash rebate for monthly bills above S$1,000</Feature>
+    <Feature>0.5% cash rebate for monthly bills between S$500 and S$1,000</Feature>
+    <Feature>0.3% cash rebate for monthly bills S$500 and below</Feature>
+  </Details>
+  <Details Name="Dining" Rating="1" RatingDesc="">
+    <Feature>Get discounts for dining including Timbre, House, Rakuichi Japanese Restaurant, The Disgruntled Chef, Peach Garden, Peony Jade, Red House Seafood Restaurant, and more</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$80.25</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$160.50</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver, subsequent years waived with min. spend $5,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

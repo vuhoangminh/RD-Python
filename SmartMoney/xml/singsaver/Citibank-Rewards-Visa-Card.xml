@@ -1,0 +1,77 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Earn 10 Rewards points or 4 miles for every S$1 spent on clothes, bags or shoes or at department stores or online shopping websites. Valid for local or overseas. Earn 1 Reward point for for every other S$1 spend on all other spend.</Feature>
+    <Feature>Up to 30% off Online Shopping at Luxola, Blue Nile, HipVan, ZALORA and more.</Feature>
+    <Feature>Complimentary S$1500 worth of shopping vouchers from your favourite brands that include Luxola, ZALORA, Evisu, Reebonz, Rakuten, Klareti &amp;amp; many more.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Online Shopping merchants include all shopping websites and EXCLUDE all (but not limited to) food &amp;amp; beverage, travel, airline, government, brokerage/ securities, cinema, insurance, tuition and online gambling websites.</Feature>
+    <Feature>Rewards Points refer to the Citi Dollars earned on the Credit Card account.</Feature>
+    <Feature>10X Rewards capped at maximum of 120,000 Rewards Points per card anniversary year. No cap for 1X Rewards.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">S$80 Takashimaya Voucher</FeatureDetails>
+      <FeatureRequire Name="Conditions">Charge at least S$1000 to the card within 60 days of card approval. Promotion is valid till 15 May 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">1. S$50 Qoo10 Gift Card
+                                                    2. Spend a minimum of S$80 every Friday during the promotion period and get S$10 off your total purchase.
+                                                    3. Get 20X* Rewards on your total purchase every day during the promotion period.</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Spend of at least S$50 at Qoo10.sg within 30 days after card approval.
+                                                    2. Promotion Period: 4 March 2016 to 30 April 2016</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">30-April-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.89%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.28%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">2.78%</Feature>
+    <Feature Name="Airmiles">S$1 = 4 airmiles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.28%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.28%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30 (First year fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30 (First year fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26% / 29%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>25 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 42,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

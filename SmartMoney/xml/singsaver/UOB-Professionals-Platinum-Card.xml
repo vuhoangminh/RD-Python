@@ -1,0 +1,74 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Use UNI$ to redeem for dining, shopping and travel vouchers in UOB Rewards programme or convert UNI$ to airmiles to redeem free flights and upgrades.</Feature>
+    <Feature>Perpetual waiver of annual fee for principal and 1st supplementary card.</Feature>
+    <Feature>Open the doors to savoury treats and discounts at over 1,000 dining establishments.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>UNI$ 5000 = 10,000 Asia Miles.</Feature>
+    <Feature>Applicant must be an existing member of either: Alumni Association, Institute of Singapore Chartered Accountants (ISCA), Law Society of Singapore, Singapore Medical Association (SMA), The Association of Chartered Certified. Accountants (ACCA).</Feature>
+    <Feature>Get SMART$ rebate instantly at more than 600 participating outlets all year round including Caltex, Cathay Cineplexes, Breadtalk and more.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.23%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.27%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.27%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.27%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.27%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 25%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>21 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of current balance or $50, whichever is higher, plus any overdue amounts.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 40,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

@@ -1,0 +1,24 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="5" RatingDesc="">
+    <Feature>10% cash rebate with purchases above $5,000 at Robinsons, Marks &amp; Spencer and John Little</Feature>
+    <Feature>5% cash rebate for purchases below $5,000 at participating 19 retail brands including Robinsons, Marks &amp; Spencer, John Little, Royal Sporting House, Golfhouse, Lacoste, Nautical, Speedo, Vans and Quiksilver</Feature>
+    <Feature>Receive a 25% Robinsons bonus discount letter with min. spend $500 at Robinsons, Marks &amp; Spencer and/or John Little</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="4" RatingDesc="">
+    <Feature>$2 = 1 Robs$ (outside Robinsons Group of stores), S$2 spent overseas = 3 Robs</Feature>
+    <Feature>$200 Robs$ = S$1 off, 4,800 Robs$ = S$30 offReceive a 25% Robinsons bonus discount letter with min. spend $500 at Robinsons, Marks &amp; Spencer and/or John Little</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>10% cash rebate with purchases above $5,000 at Robinsons, Marks &amp; Spencer and John Little</Feature>
+    <Feature>5% cash rebate for purchases below $5,000 at participating 19 retail brands including Robinsons, Marks &amp; Spencer, John Little, Royal Sporting House, Golfhouse, Lacoste, Nautical, Speedo, Vans and Quiksilver</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

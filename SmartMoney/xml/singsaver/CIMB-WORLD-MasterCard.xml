@@ -1,0 +1,74 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>1% cashback on all local and overseas spend with no cashback cap.</Feature>
+    <Feature>Up to 50% savings when dining at a wide selection of restaurants islandwide.</Feature>
+    <Feature>Play at prominent golf courses around South-East Asia without having to pay green fees.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>50% dining discount is valid with a minimum of 2 diners with a minimum of 2 main courses.</Feature>
+    <Feature>Golfing privileges is valid until 31 Dec 2016, unless otherwise stated.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">Limited edition ez-link card with S$40 stored value</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Successfully apply for 2 new principal CIMB Credit Cards (except CIMB Classic MasterCard)
+                                                    2. Make a minimum of 3 transactions with either of the approved principal CIMB Credit Card within 1 month from the card approval date.
+                                                    3. Application must be approved no later than 30 April 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31 March 2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.20%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.20%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>23 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of the outstanding balance or S$50.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 120,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 120,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

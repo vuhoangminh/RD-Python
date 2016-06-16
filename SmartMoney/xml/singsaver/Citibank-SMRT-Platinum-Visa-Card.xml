@@ -1,0 +1,78 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Redeem your SMRT$ for vouchers and free rides.</Feature>
+    <Feature>Enjoy up to&amp;nbsp;7%&amp;nbsp;savings on groceries at FairPrice Supermarkets, Giant and Sheng Siong, up to 15% savings on coffee and up to 5% savings on toys &amp;amp; books.</Feature>
+    <Feature>Doubles as an EZ-Link Card for daily commute with an auto top-up function.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>2% SMRT$ is awarded for EZ-Reload transactions of more than S$30.25. 1% SMRT$ is awarded for EZ-Reload transactions of S$30.25 or less.</Feature>
+    <Feature>5% SMRT$ is awarded for transactions of $50 and above. 3% SMRT$ is awarded for transactions less than $50. Citi Rebate is awarded to transactions made at Sheng Siong and Giant only. 2% Citi Rebate is awarded for transactions of $50 and above. 1% Citi Rebate is awarded for transactions of $20 to less than $50. Other Citi Rebate terms and conditions apply.</Feature>
+    <Feature>10% Citi Rebate is awarded for transactions made at Starbucks outlets in Singapore only. Other Citi Rebate terms and conditions apply.</Feature>
+    <Feature>For monthly statement spend of less than $600, SMRT$ earn rate will be 0.3% less.</Feature>
+    <Feature>Maximum of 280 SMRT$ can be earned during any 12-month period following card issued or renewal.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">$120 cash rebate</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Apply for 2 Citibank Credit Cards and receive approval within 30 days from date of application. 
+                                                    2. Charge a minimum of S$200 per month on either one of the cards for 6 consecutive months.
+                                                    3. Receive a maximum of $20 cashback per month for 6 consecutive months.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31-March-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">2.15%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">2.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 160.5</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 85.60 (First 2 years fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 160.5</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 85.60 (First 2 years fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26% / 29%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>25 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 42,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

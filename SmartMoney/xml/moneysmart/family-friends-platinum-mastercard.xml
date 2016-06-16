@@ -1,0 +1,34 @@
+<CreaditDetails>
+  <Details Name="Grocery" Rating="4" RatingDesc="">
+    <Feature>Enjoy 5% cash rebates with min. spend of S$500 at NTUC, Cold Storage and Unity</Feature>
+    <Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="3" RatingDesc="">
+    <Feature>Enjoy 5% cash rebates with min. spend of S$500 at selected merchant outlets such as NTUC, Cold Storage, Guardian and POPULAR Bookstores</Feature>
+    <Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature>
+  </Details>
+  <Details Name="Dining" Rating="3" RatingDesc="">
+    <Feature>Enjoy 5% cash rebates with min. spend of S$500 at KFC Delivery, McDonald's Delivery and Pizza Hut Delivery</Feature>
+    <Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="2" RatingDesc="">
+    <Feature>Enjoy 5% cash rebates with min. spend of S$500 at leading petrol stations in Malaysia (BHPetrol, Caltex, Petron, Petronas and Shell)</Feature>
+    <Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>Enjoy 5% cash rebates with min. spend of S$500 at FOX Kids &amp; Baby, Mothercare, Toys "R" Us, Yamaha Music, Watsons, Guardian and POPULAR Bookstores</Feature>
+    <Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="1" RatingDesc="">
+    <Feature>Earn 0.3% cash rebates on all purchases</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>Complimentary</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$80</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>Waived with min. spend of $12,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

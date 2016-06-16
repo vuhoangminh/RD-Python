@@ -1,0 +1,40 @@
+<CreaditDetails>
+  <Details Name="Entertainment" Rating="4" RatingDesc="">
+    <Feature>Earn 5% rebate on weekend entertainment (Fri-Sun) and 3% on weekday entertainment (Mon-Thur)</Feature>
+    <Feature>Min. spend $400 offline (exclude online and ATUs), capped at $60 for all rebates</Feature>
+    <Feature>Get 4 movie tickets for the price of 3 at GV</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="4" RatingDesc="">
+    <Feature>6% rebate on online shopping</Feature>
+    <Feature>3% rebate on first 2 top-ups for NETS FlashPay ATU</Feature>
+    <Feature>0.3% rebate on everything else</Feature>
+    <Feature>Up to 5% rebate for entertainment</Feature>
+    <Feature>Min. spend $400 exclude online spend and ATUs, capped at $60 for all rebates</Feature>
+  </Details>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>Up to 50% off at restaurants, hotels, fast food outlets, cafÃ©, desserts, and many more</Feature>
+    <Feature>Min. spend $400 exclude online spend and ATUs, capped at $60 for all rebates</Feature>
+    <Feature>0.3% rebate on everything else</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="3" RatingDesc="">
+    <Feature>6% rebate on online shopping</Feature>
+    <Feature>0.3% rebate on everything else</Feature>
+    <Feature>Min. spend $400 exclude online spend and ATUs, capped at $60 for all rebates</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>14% savings at Esso, Caltex (5% onsite + 5% loyalty + 4% card)</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="1" RatingDesc="">
+    <Feature>6% rebate on online shopping</Feature>
+    <Feature>0.3% rebate on everything else</Feature>
+    <Feature>Min. spend $400 exclude online spend and ATUs, capped at $60 for all rebates</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Principal)<FeatureRequire>$80</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver, subsequent years waived with min. spend of $5,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

@@ -1,0 +1,70 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Earn 3 OCBC$ for every S$1 overseas spend; 1 OCBC$ for every S$1 local spend.</Feature>
+    <Feature>Earn 2 air miles for every S$1 spend overseas and at local clubs such as The Pump Room &amp;amp; Timbre; 1 air miles for every S$1 spend elsewhere.</Feature>
+    <Feature>Exclusive access to entertainment privileges.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Titanium Bonus Miles awarded will be limited to 100,000 Titanium Bonus Miles per Cardmember per calendar month.</Feature>
+    <Feature>Accumulate spending of S$1500 a month to qualify for bonus miles.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">2.30%</Feature>
+    <Feature Name="Airmiles">S$1 = 2.5 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">2 years</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.80%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$0</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.80%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$0</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25.92% / 25.92%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>25.92% / 28.92%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>24 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>S$50 or 3% of the Total Balance, whichever is higher, and any overdue amount.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 45,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

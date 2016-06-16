@@ -1,0 +1,27 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="5" RatingDesc="">
+    <Feature>$1 = 1.4 miles on all spend</Feature>
+    <Feature>Enjoy exclusive offers from Visa Signature privileges, ANZ Spot and Dining privileges</Feature>
+    <Feature>Get up to 25% off at Singapore Marriott Tang Plaza Hotel, Silk Road Restaurant, Outback Steakhouse, MELT - The World Cafe and many more</Feature>
+  </Details>
+  <Details Name="Air Miles" Rating="5" RatingDesc="">
+    <Feature>Complimentary travel and accident insurance coverage of up to S$1 million</Feature>
+    <Feature>Unlimited complimentary access to Airport Lounges around the world</Feature>
+    <Feature>$1 = 1.4 air miles for local spend</Feature>
+    <Feature>$1 = 2.8 air miles for spend in Australia and New Zealand or on flights with Qantas and Jetstar</Feature>
+    <Feature>Complimentary airport limousine transfers</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="4" RatingDesc="">
+    <Feature>Up to 17.0% savings on S$500 ANZ StarCash prepaid card for refuel at Caltex service station</Feature>
+    <Feature>Up to 12.7% savings at Caltex ($3 off every $50 gross petrol spend (Valid till 30 Sep 2016) + 5% site discount + Caltex Thanks! points + ANZ Travel$)</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$90,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$100.00</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$200.00</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver for both Principal and Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

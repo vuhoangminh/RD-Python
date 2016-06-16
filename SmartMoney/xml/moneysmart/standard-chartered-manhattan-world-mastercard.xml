@@ -1,0 +1,32 @@
+<CreaditDetails>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good LifeÂ®</Feature>
+    <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature>
+    <Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature>
+    <Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="1" RatingDesc="">
+    <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature>
+    <Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="1" RatingDesc="">
+    <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good LifeÂ®</Feature>
+    <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature>
+    <Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="1" RatingDesc="">
+    <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature>
+    <Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Principal)<FeatureRequire>$180</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

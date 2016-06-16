@@ -1,0 +1,73 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Enjoy up to 22.9% petrol savings at Caltex and up to 24% petrol savings at SPC. Up to 50% off with UOB dining privileges (eg: 1-1 Buffet at  Singapore Marriott Tang Plaza Hotel, Orchard Hotel and Carlton Hotel)</Feature>
+    <Feature>Earn up to 3.33% p.a on savings in UOB One Account.</Feature>
+    <Feature>Receive up to 5% cashback on all spend (including overseas spend) for spend above $2000/month and up to 3.33% cashback for spend between S$500 - S$1,999/month.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Earn up to 3.33% p.a. deposit interest rate on UOB One Account by: 1. Spending at least S$500 on UOB One Card AND 2. Crediting salary (min. S$2,000) via GIRO OR Performing 3 GIRO debits in each calendar month.</Feature>
+    <Feature>Receive up to 5% cash rebate with a min. spend of S$2,000/month for each qualifying quarter with at least 3 purchases. Receive up to 3.33% cash rebate if spend is between S$500 – S$1999/month.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">S$50 Cash Credit for your first UOB card</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Limited to first 600 applicants who had never held a UOB Principal Card in the last 6 months prior to 1 Jan 2016. 2. Charge a minimum amount of S$600 within the first 30 days of card approval. 3. Promotion is not valid for UOB PRVI Miles American Express® Card, UOB PRVI Miles World MasterCard Card and UOB PRVI Miles Visa Card application. 4. Promotion period from 1 January 2016 to 31 March 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">S$50 Cash Credit for your first UOB Card</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">-</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">4.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">5.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">5.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">5.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 128.4</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 64.20 (First card free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 128.4</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 64.20 (First card free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 25%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>Up to 21 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of current balance or $50, whichever is higher, plus any overdue amounts.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 40,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

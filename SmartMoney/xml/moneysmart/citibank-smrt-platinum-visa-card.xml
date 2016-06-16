@@ -1,0 +1,27 @@
+<CreaditDetails>
+  <Details Name="Grocery" Rating="5" RatingDesc="">
+    <Feature>Up to 7% at Fairprice, Giant and Sheng Siong (Fairprice supermarket outlets include FairPrice, FairPrice Xtra and FairPrice Finest)</Feature>
+    <Feature>Redeem S$10 Giant or Sheng Shiong voucher for 10 SMRT$1</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="3" RatingDesc="">
+    <Feature>Up to 15% rebates in the form of SMRT$ (Capped at 280 SMRT$ every 12 month period)</Feature>
+    <Feature>Up to 7% savings on groceries</Feature>
+    <Feature>Up to 15% savings on coffee</Feature>
+    <Feature>Up to 5% savings on toys &amp; books</Feature>
+    <Feature>Minimum monthly statement spend more than $600</Feature>
+    <Feature>0.3% on all other spend</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>14% discount at Esso stations - 5% Esso site discount + 5% Smiles card discount + 4% Citicard discount</Feature>
+    <Feature>13.6% discount at Shell stations - 5% Shell site discount + 5% Shell Escape discount + 4% Citi Rebate (applies after Shell discount)</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$42,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$85.60</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$160.50</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver for Principal and two (2) Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

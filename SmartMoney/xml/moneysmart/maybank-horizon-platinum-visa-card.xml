@@ -1,0 +1,25 @@
+<CreaditDetails>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>S$1 = 1 TREATS Point</Feature>
+    <Feature>
+    </Feature>
+    <Feature>Earn 10X TREATS Points (or 4 air miles) for every S$1 spent on agoda.com/horizon and for transactions with any telecommunication companies in Singapore including retail purchases and bill payments</Feature>
+    <Feature>Earn 5X TREATS Points (or 2 air miles) for every S$1 spent on travel-related and overseas expenses</Feature>
+    <Feature>Redeem TREATS Points for frequent flyer miles, shopping and dining vouchers and more</Feature>
+  </Details>
+  <Details Name="Air Miles" Rating="3" RatingDesc="">
+    <Feature>Earn 5X TREATS Points (or 2 air miles) with every S$1 charged for air ticket(s), travel package(s), overseas transactions, and purchases made at DFS stores in Singapore Changi Airport</Feature>
+    <Feature>Earn 10 TREATS Points (or 4 air miles) with every dollar spent with agoda.com/horizon and local telcos</Feature>
+    <Feature>Complimentary access to selected VIP airport lounges (Ambassador Transit Lounge and Plaza Premium Lounge) with min. charge S$400</Feature>
+    <Feature>Complimentary travel insurance coverage of up to S$1,000,000</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>Complimentary</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$150</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>Waived with min. spend of $12,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

@@ -1,0 +1,47 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="5" RatingDesc="">
+    <Feature>Get 10 Rewards points (or 4 Miles) for every S$1 spent on Shoes + Bags + Clothes, Departmental Stores (local or overseas) or Online Shopping websites*</Feature>
+    <Feature>*Excludes all (but not limited to) food &amp; beverage, travel, airline, government, brokerage/ securities, cinema, insurance, tuition and online gambling websites</Feature>
+    <Feature>$1 on all other spend = 1 Citi$</Feature>
+    <Feature>Up to 10% rebate at over 700 merchant outlets including Burger King, Cold Storage, Shell and Starbucks</Feature>
+    <Feature>Get up to 30% off Online Shopping at Luxola, Blue Nile, Reebonz and more</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>Get 10 Rewards points (or 4 Miles) for every S$1 spent on Shoes + Bags + Clothes, Departmental Stores (local or overseas) or Online Shopping websites*</Feature>
+    <Feature>*Excludes all (but not limited to) food &amp; beverage, travel, airline, government, brokerage/ securities, cinema, insurance, tuition and online gambling websites</Feature>
+    <Feature>Up to 10% rebate at over 700 merchant outlets including Burger King, Cold Storage, Shell and Starbucks</Feature>
+    <Feature>$1 on all other spend = 1 Citi$</Feature>
+    <Feature>Redeem your Rewards Points on either Miles, Shopping or Dining Vouchers or Cash Rebate</Feature>
+  </Details>
+  <Details Name="Dining" Rating="3" RatingDesc="">
+    <Feature>1-for-1 drinks at Zouk Wine Bar and Velvet Underground</Feature>
+    <Feature>Exclusive dining deals with Citi Gourmet Pleasures at top restaurants such as Kuro Restaurant &amp; Bar, Skyve Wine Bistro and more</Feature>
+    <Feature>Up to 10% rebate at over 700 merchant outlets including Burger King, Cold Storage, Shell and Starbucks.</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="3" RatingDesc="">
+    <Feature>S$1 = 10 Rewards Points on online spend</Feature>
+    <Feature>Enjoy free entry and 1-for-1 drinks at Zouk</Feature>
+  </Details>
+  <Details Name="Petrol" Rating="3" RatingDesc="">
+    <Feature>14% discount at Esso stations - 5% Esso site discount + 5% Smiles card discount + 4% Citicard discount</Feature>
+    <Feature>13.6% discount at Shell stations - 5% Shell site discount + 5% Shell Escape discount + 4% Citi Rebate (applies after Shell discount)</Feature>
+    <Feature>S$1 = 1 Citi$</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="2" RatingDesc="">
+    <Feature>Earn up to 2% Citi Rebate at Cold Storage, Giant, Sheng Siong, and many more (for transactions of S$50 and above)</Feature>
+    <Feature>1% Citi Rebate is awarded for transactions of S$20 to less than S$50</Feature>
+    <Feature>S$1 = 1 Citi$</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>Up to 10% additional rebate at over 700 merchant outlets including Burger King, Cold Storage, Shell and Starbucks with Citi Rebate</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$42,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>First year fee waived for Principal and two (2) Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

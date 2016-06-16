@@ -1,0 +1,71 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Stand a chance to win a trip for two to watch Manchester United LIVE every football season.</Feature>
+    <Feature>Complimentary Supplementary Cards for loved ones.</Feature>
+    <Feature>Earn 5 TREATS Points for every dollar spent when Manchester United wins a Premier League match.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>10 TREATS Points for every dollar spent can only be earned at Manchester United Store - United Direct Online Megastore.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">A limited edition Manchester United Scarf</FeatureDetails>
+      <FeatureRequire Name="Conditions">Apply online via Maybank2u.com.sg!</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">Limited edition Manchester United Scarf</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Gift is limited to the first 3,000 successful applicants.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">0.52%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.33%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 60</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 60</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>24% / 24%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of outstanding balance or S$20, whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  50</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 60,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

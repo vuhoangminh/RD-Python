@@ -1,0 +1,40 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="5" RatingDesc="">
+    <Feature>Up to 20.88% discount at Esso Stations - 5% Esso site discount + 5% Smiles card discount + 4% Citicard discount + 8% Citi DIVIDEND Cash rebate on nett purchase</Feature>
+    <Feature>Up to 20.8% discount at Shell stations - 5% Shell site discount + 5% Shell Escape discount + 4% Citi Rebate (applies after Shell discount) + 8% Citi DIVIDEND Cash rebate (applies after Shell discount)</Feature>
+    <Feature>Total minimum spend of $888/month, capped at DIV$25 per category</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="5" RatingDesc="">
+    <Feature>Up to 8% cash back at selected supermarkets and grocery stores worldwide*</Feature>
+    <Feature>Total minimum spend of $888/month, capped at DIV$25 per category</Feature>
+    <Feature>0.25% cash back on all other retail spend</Feature>
+    <Feature>*From 1st March 2016, earning &amp; redemption @ Cold Storage, Market Place, Jasons, Giant &amp; Guardian will cease</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="5" RatingDesc="">
+    <Feature>Petrol: Up to 20.88% at Esso, 20.8% at Shell, and 8% cash back at all other petrol stations</Feature>
+    <Feature>Groceries: Up to 8% cash back at ALL supermarkets and grocery stores worldwide</Feature>
+    <Feature>Dining: Up to 8% cash back at all food and beverage outlets globally</Feature>
+    <Feature>Total minimum spend of $888/month, capped at DIV$25 per category</Feature>
+    <Feature>Others: 0.25% cash back on all other retail spend</Feature>
+  </Details>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>Up to 8% cash back on all your dining spends globally with your Citibank Dividend Card</Feature>
+    <Feature>Exclusive dining deals with Citi Gourmet Pleasures at top restaurants such as Kuro Restaurant &amp; Bar, Skyve Wine Bistro and more</Feature>
+    <Feature>1-for-1 drinks at Zouk Wine Bar and Velvet Underground</Feature>
+    <Feature>Up to 10% rebate at over 700 merchant outlets including Burger King, Cold Storage, Shell and Starbucks.</Feature>
+    <Feature>Total minimum spend of $888/month, capped at DIV$25 per category</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>0.25% cash back on all other spend</Feature>
+    <Feature>5% cash back on online shipping charges</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$42,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>First year fee waived for Principal and two (2) Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

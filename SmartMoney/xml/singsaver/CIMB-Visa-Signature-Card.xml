@@ -1,0 +1,75 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Charge your full travel fares to your CIMB Visa Signature, and automatically get travel accident insurance coverage of up to US$500,000 for you and your family.</Feature>
+    <Feature>10% cashback on Wine and Dine and Online Spend in Foreign Currencies; 0.2% cashback on all other local and overseas spend.</Feature>
+    <Feature>0% administrative fee for foreign currency transactions. Cross border fee of 1% levied by Visa&amp;nbsp;still applies.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>10% cashback is capped at S$60 per statement month. Upon reaching the cap of S$60, 0.2% cashback is applied on the additional spend. No cashback cap for 0.2% cashback.</Feature>
+    <Feature>Waiver of 1.4% foreign currency administrative fee charged by CIMB will be credited as cashback in the following statement month.</Feature>
+    <Feature>A minimum spend of $500 with at least 8 transactions of $30 or more per statement month has to be charged to the card for 10% cashback.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">Limited edition ez-link card with S$40 stored value</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Successfully apply for 2 new principal CIMB Credit Cards (except CIMB Classic MasterCard)
+                                                    2. Make a minimum of 3 transactions with either of the approved principal CIMB Credit Card within 1 month from the card approval date.
+                                                    3. Application must be approved no later than 30 April 2016</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31 March 2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">2.69%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.20%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">10.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.20%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">10.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Free for Life</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.00%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>APR/Repayment Fee<FeatureRequire></FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>23 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of the outstanding balance or S$50.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 48,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

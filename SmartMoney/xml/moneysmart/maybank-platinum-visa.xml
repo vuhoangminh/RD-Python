@@ -1,0 +1,18 @@
+<CreaditDetails>
+  <Details Name="Entertainment" Rating="3" RatingDesc="">
+    <Feature>S$3 off movie tickets at Shaw Theatres till 31 Dec 2015</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>Up to 3.33% cash rebates on local spend (min spend of $300/month or $1,000/month in a quarter)</Feature>
+    <Feature>3% cash rebates on overseas spend from 1 Oct to 31 Dec 2015</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>N/A</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$80</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>Waived when card is charged once every 3 months</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

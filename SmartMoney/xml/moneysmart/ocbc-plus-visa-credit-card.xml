@@ -1,0 +1,39 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="4" RatingDesc="">
+    <Feature>Up to 18.3% fuel savings at Esso stations island wide</Feature>
+    <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="4" RatingDesc="">
+    <Feature>Enjoy 5% rebates at Unity</Feature>
+    <Feature>Enjoy 5% off everything at Fairprice and Fairprice Online</Feature>
+    <Feature>5% rebate in LinkPoints applicable only with minimum spend of $500 Visa transactions outside FairPrice, FairPrice Online and Unity within the same calendar month</Feature>
+    <Feature>Up to 18.3% rebates at Esso, 2% for EZ-Reload, and 1.3% for M1, StarHub, SPH, Town Council bills &amp; SP Services</Feature>
+    <Feature>0.3% rebate on all Visa spend</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="4" RatingDesc="">
+    <Feature>Enjoy 5% off everything at Fairprice and Fairprice Online</Feature>
+    <Feature>Free delivery at www.fairprice.com.sg</Feature>
+    <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>Enjoy up to 50% off at GMarket, ZALORA, Asiatravel.com, foodpanda, Rakuten Singapore, Lazada.SG, Cath Kidston, and many more</Feature>
+    <Feature>Enjoy 3% off at Bata</Feature>
+    <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature>
+  </Details>
+  <Details Name="Dining" Rating="1" RatingDesc="">
+    <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="1" RatingDesc="">
+    <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature>
+    <Feature>Earn up to 2% LinkPoints rewards on EZ-Reload, telco bills and utilities</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>Complimentary, up to 3 supplementary cards</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$80</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver, subsequent years waived with min. spend of $2,500 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

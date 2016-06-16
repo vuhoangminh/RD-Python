@@ -1,0 +1,38 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="5" RatingDesc="">
+    <Feature>Up to 22.9% petrol savings at Caltex, and up to 24% savings at SPC</Feature>
+  </Details>
+  <Details Name="Dining" Rating="4" RatingDesc="">
+    <Feature>Up to 5% cash rebate on all spend each quarter (min. spend $2,000/month for all 3 months)</Feature>
+    <Feature>Up to 3.33% cash rebate on all spend each quarter (min. spend $500/month or $1,000/month for all 3 months)</Feature>
+    <Feature>Enjoy up to 50% off with UOB dining privileges (e.g. 1-for-1 buffet at Marriott CafÃ© Buffet, Orchard CafÃ© and CafÃ© Mosaic)</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="4" RatingDesc="">
+    <Feature>Up to 5% cash rebate on all spend each quarter (min. spend $2,000/month for all 3 months)</Feature>
+    <Feature>Up to 3.33% cash rebate on all spend each quarter (min. spend $500/month or $1,000/month for all 3 months)</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="4" RatingDesc="">
+    <Feature>Up to 5% cash rebate on all spend for spend above S$2,000/month per quarter</Feature>
+    <Feature>&gt;Up to 3.33% cash rebate for spend between S$500 and S$1,999/month per quarter</Feature>
+    <Feature>Up to 20% additional SMART$ rebate with UOB SMART$ Rebate Programme</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="" RatingDesc="">
+    <Feature>Up to 5% cash rebate on all spend each quarter (min. spend $2,000/month for all 3 months)</Feature>
+    <Feature>Up to 3.33% cash rebate on all spend each quarter (min. spend $500/month or $1,000/month for all 3 months)</Feature>
+    <Feature>Up to 20% SMART$ rebate at over 800 merchants</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="" RatingDesc="">
+    <Feature>Up to 5% cash rebate on all spend each quarter (min. spend $2,000/month for all 3 months)</Feature>
+    <Feature>Up to 3.33% cash rebate on all spend each quarter (min. spend $500/month or $1,000/month for all 3 months)</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$40,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Principal)<FeatureRequire>$128.40</FeatureRequire></Feature>
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$64.20</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver, perpetual fee waiver for first supplementary card</FeatureRequire></Feature>
+    <Feature>Annual Interest Rate/ APR<FeatureRequire>25%</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

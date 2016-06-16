@@ -1,0 +1,72 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Earn 1.4 air miles for every S$1 spent locally and  2.8 air miles for every S$1 spent with contactless payment.</Feature>
+    <Feature>Earn 2.8 air miles for every S$1 spend on direct bookings with Qantas and Jetstar airlines or retail spend in Australia and New Zealand.</Feature>
+    <Feature>Receive 10,000 air miles upon annual card renewal.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>The 2.8 air miles promotion is limited to 14,000 Travel$ per Principal Cardmember per calendar month.</Feature>
+    <Feature>The annual renewal bonus gift of 10,000 air miles is valid for Cardmembers who renew and pay their annual fee from the 2nd year of membership onwards.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">2,000 bonus miles</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Minimum spend of at least S$500 using ANZ Travel Visa Signature Card within 30 days of card approval is required 
+                                                    2. Promotion period from 1 November 2016 - 29 February 2016. Receive application approval from bank by 15th March 2015. 
+                                                    3. Only applicable to New-to-Bank customers.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">29-Feb-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.80%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmile</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">3.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmile</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 (spent on Qantas and Jetstar airlines) = 2.8 miles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmiles</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmiles</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">5 years</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 200</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 100 (First year fee waived)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 200</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 100 (First year fee waived)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>51 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of the outstanding balance or S$50 whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 60,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 90,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

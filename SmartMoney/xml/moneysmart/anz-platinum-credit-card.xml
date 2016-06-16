@@ -1,0 +1,29 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="4" RatingDesc="">
+    <Feature>Up to 16.6% savings on S$500 ANZ StarCash prepaid card for refuel at Caltex</Feature>
+    <Feature>Up to 20.4% savings on petrol at Caltex ($3 off every $50 gross petrol (Valid till 30 Sep 2016) + 5% site discount + Caltex Thanks! points + ANZ Bonus Rewards Programme with min. $500 retail spend in same month (Vaild till 30 Sep 2016))</Feature>
+  </Details>
+  <Details Name="Grocery" Rating="3" RatingDesc="">
+    <Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature>
+    <Feature>2X Rewards Points for online and overseas spend</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="3" RatingDesc="">
+    <Feature>S$5 = 1 point</Feature>
+    <Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature>
+    <Feature>2X Rewards Points for online and overseas spend</Feature>
+    <Feature>20X Rewards Points at participating merchants such as Caltex, G2000, Courts, Dorothy Perkins and more, with minimum spend of $500 in the same calendar month (Valid till 30 Sep 2016)</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="2" RatingDesc="">
+    <Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature>
+    <Feature>2X Rewards Points for online and overseas spend</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$80</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$160</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver for both Principal and Supplementary cards</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

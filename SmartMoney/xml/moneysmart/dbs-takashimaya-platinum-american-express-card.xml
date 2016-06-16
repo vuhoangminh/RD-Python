@@ -1,0 +1,26 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="4" RatingDesc="">
+    <Feature>2 Takashimaya Bonus Points = S$10</Feature>
+    <Feature>Get a $30 Takashimaya Voucher with 100 points ($500 spend)</Feature>
+    <Feature>Enjoy an additional 10% discount at Takashimaya SC during selected sale events</Feature>
+    <Feature>Enjoy 3% discount at Takashimaya Japan and receive 5% discount for cash payments with min. purchase of JPY3,000</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="3" RatingDesc="">
+    <Feature>S$5 = 1 DBS Point</Feature>
+    <Feature>2 Takashimaya Bonus Points = S$10</Feature>
+    <Feature>Get a $30 Takashimaya Voucher with 100 points ($500 spend)</Feature>
+    <Feature>Get 1 GV Movie Ticket for 750 DBS points</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="1" RatingDesc="">
+    <Feature>6% voucher rebates with spending at Takashimaya Department Store</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$50,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$50,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver, subsequent years waived with min. spend of $6,000 p.a.</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

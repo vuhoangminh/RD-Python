@@ -1,0 +1,26 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="4" RatingDesc="">
+    <Feature>S$5 = 1 UNI$</Feature>
+    <Feature>5X UNI$ at local departmental stores, overseas and online shops</Feature>
+    <Feature>UOB Ladyâ€™s LuxePay Plan â€“ 6 or 12 month installment plan with no interest or processing fees</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="3" RatingDesc="">
+    <Feature>S$5 = 1 UNI$</Feature>
+    <Feature>5X UNI$ at local departmental stores, overseas and online shops</Feature>
+    <Feature>Min. spend of S$3,000 in a statement cycle, cap at UNI$4,000</Feature>
+  </Details>
+  <Details Name="Entertainment" Rating="2" RatingDesc="">
+    <Feature>S$5 = 1 UNI$</Feature>
+    <Feature>5X UNI$ on overseas and online spend</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$40,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$96.30</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$192.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver, perpetual fee waiver for first supplementary card</FeatureRequire></Feature>
+    <Feature>Annual Interest Rate/ APR<FeatureRequire>25%</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

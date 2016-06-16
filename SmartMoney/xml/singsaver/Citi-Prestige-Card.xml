@@ -1,0 +1,68 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Receive 62,500 Citi Dollars (or 25,000 miles) or a Smartwatch or a Tablet and USD$100 Hotels.com e-voucher with payment of annual membership fee of S$535.</Feature>
+    <Feature>Earn 3.25 Citi Dollars (or 1.3 miles) for every $1 spent locally. Earn 5 Citi Dollars (or 2 miles) for every $1 spent overseas. Earn additional annual Relationship Bonus (denominated in Citi Dollars) based on your annual retail spend and depth of relationship with Citi. Citi Dollars never expire.</Feature>
+    <Feature>Unlimited complimentary night at any hotel of your choice after a minimum 4-consecutive-night booking. Unlimited airport lounge access for primary cardmember.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">62,500 Citi Dollars (or 25,000 miles)</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Pay annual membership fee of S$535 full upfront.
+                                                    2. The full cost of the welcome gift will be charged if Citi Prestige card is closed or terminated within 9 months from the date of account opening.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.48%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.3 airmiles</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">1.39%</Feature>
+    <Feature Name="Airmiles">S$1 = 2 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.90%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.90%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.90%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 535</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 535</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26% / 29%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>25 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>1% of current a/c balance plus 1% outstanding amount plus interest charges plus late charges OR S$50 whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 120,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 120,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

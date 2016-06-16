@@ -1,0 +1,76 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Auto-enrolment with the Frequent Traveller Option, and a waiver of S$40 enrolment fees. Cardmember can redeem your points with over 40 of the world's renowned airlines.</Feature>
+    <Feature>Complimentary The Far Card Membership worth S$425. Up to 50% savings when dining at a wide selection of restaurants islandwide. 1 for 1 drinks or complimentary bespoke cocktails/beer at most fashionable bars in Singapore.</Feature>
+    <Feature>Earn 2 Membership Rewards Points for every $1.60 spent. Earn 10 Membership Rewards Points for every S$1.60 spent at Platinum EXTRA partners (eg: Reebonz, Harvery Norman, Montblanc).</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>If your account has three or more defaults and/or one default unpaid for two or more consecutive months, 29.99% interest p.a. will be charged instead.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">2 options available: 
+                                                    1. Full Fee Offer: Samsung Tab A with S Pen (8.0”) with wifi worth S$551 + Tumi Vapor Luggage worth S$825
+                                                    2. First Year Fee Waiver Offer: First year fee waiver worth S$321 + Samsonite Armet Spinner 57cm worth S$380</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Galaxy Tab A with S Pen (8.0"): Pay the full annual fee of $321 upfront.
+                                                    2. TUMI VAPOR International Carry-on Travel Luggage and Samsonite Armet Spinner 57cm Expandable Luggage: Card members have to charge a min spend of $7500 spend within the first 6 months of the card approval to be eligible for the gift.
+                                                    3. First Year Fee Waiver: Only applies to brand new American Express Card Members who do not have any other existing American Express Cards</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">No details</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">3.28%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.60%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.60%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.60%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">6.50%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 321</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 160.50 (First 2 permanently waived)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 321</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 160.50 (First 2 permanently waived)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>24.99% / 29.99%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>24.99% / 24.99%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>21 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of the outstanding balance or S$50 whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  50</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 50,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 60,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

@@ -1,0 +1,75 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Enjoy 20.88% savings at Esso, 20.8% savings at Shell fuel stations and 8% cashback at all other petrol stations.</Feature>
+    <Feature>Enjoy 8% cash back at all grocery stores and F&amp;amp;B outlets  worldwide.</Feature>
+    <Feature>Cash rebates earned will not expire.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Maximum cash back of $25 per category (Petrol, Grocery, Dining) per month.</Feature>
+    <Feature>8% cash back on petrol, groceries and dining is awarded with a min. spend of $888/month.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">$120 cash rebate</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Apply for 2 Citibank Credit Cards and receive approval within 30 days from date of application. 
+                                                    2. Charge a minimum of S$200 per month on either one of the cards for 6 consecutive months.
+                                                    3. Receive a maximum of $20 cashback per month for 6 consecutive months.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31-Mar-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">3.47%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">0.25%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">8.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">8.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30 (First year fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 96.30 (First year fee waived for 2 cards)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26% / 29%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>25 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 42,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

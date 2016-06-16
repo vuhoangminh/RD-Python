@@ -1,0 +1,75 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Receive a Samsonite Engenero Spinner 69cm Luggage worth S$560 when you apply now!</Feature>
+    <Feature>Choice to redeem from over 40 airlines, cash or travel packages.</Feature>
+    <Feature>Fastest earn rate - 3 miles for every S$1 spent on Singapore Airlines, SilkAir and KrisShop, 2.4 miles for every S$1 spent overseas and 1.4 miles for every S$1 spent locally, with no minimum spend. Plus, choice to redeem from over 40 airlines, cash or travel packages.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Cardmembers will earn UNI$7.5 for every S$5 spent at Singapore Airlines, SilkAir and KrisShop (equivalent to 3 miles for every S$1 spent), UNI$6 for every S$5 spent on transactions in foreign currencies (equivalent to 2.4 miles for every S$1 spent) and UNI$3.5 for every S$5 spent on transactions in Singapore Dollars (equivalent to 1.4 miles for every S$1 spent).</Feature>
+    <Feature>Samsonite Engenero Spinner 69cm Luggage applicable to cards approved from 1 October - 31 December 2015 and not applicable to existing UOB PRVI Miles Cardmembers. Promotion is limited to first 300 successful card applicants in each qualifying period, who make a minimum spend of S$3,000 within a month from card approval date.</Feature>
+    <Feature>To receive complimentary travel insurance, cardmembers must charge the entire fare of the public conveyance in advance of the scheduled departure time to the UOB PRVI Miles Card.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">-</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">1. 8,000 air miles for New UOB card applicants  OR
+                                                    2. 5,000 air miles for existing UOB cardholders applying for PRVI Miles Credit Cards</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Promotion limited to first 1,000 successful applicants who spend a min. of S$1,500 within the first month.
+                                                    2. Qualified Applicants who have never been issued any UOB credit cards shall be entitled to 8,000 air miles.
+                                                    3. Qualified Applicants who have active UOB cards issued to them shall be entitled to 5,000 air miles.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">29-Feb-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.67%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmiles</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">2.40%</Feature>
+    <Feature Name="Airmiles">S$1 = 2.4 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 (spent on Singapore Airlines, SilkAir &amp;amp; KrisShop) = 3 miles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmiles</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.4 airmiles</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 256.8</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 128.40 (2 cards free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>3.25%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 256.8</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First Year Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 128.40 (2 cards free)</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>3.25%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 25%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>28% / 28%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>Up to 21 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of current balance or $50, whichever is higher, plus any overdue amounts.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 80,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 80,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

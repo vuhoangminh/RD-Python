@@ -1,0 +1,29 @@
+<CreaditDetails>
+  <Details Name="Shopping" Rating="5" RatingDesc="">
+    <Feature>Receive 6% Cashback on online purchases From 1 Jan 2016 to 29 Feb 2016 (with min spend of $500 per month, capped at $100 per month)</Feature>
+    <Feature>$5 = 1 DBS Point</Feature>
+    <Feature>Plus, enjoy 3X DBS Points on your online shopping, overseas spend and local visa PayWave</Feature>
+  </Details>
+  <Details Name="Dining" Rating="2" RatingDesc="">
+    <Feature>$5 = 1 DBS Point</Feature>
+    <Feature>3X DBS Points on overseas spend and local Visa payWave</Feature>
+    <Feature>Enjoy discounts at over 1,000 outlets islandwide with the DBS Indulge program</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="2" RatingDesc="">
+    <Feature>$5 = 1 DBS Point</Feature>
+    <Feature>Enjoy 3X DBS Points on your travel bookings, overseas spend, every EZ-Reload auto top-up, and local Visa payWave transactions</Feature>
+    <Feature>Enjoy 3X DBS Points on your online shopping</Feature>
+  </Details>
+  <Details Name="Cash Back" Rating="2" RatingDesc="">
+    <Feature>Receive 6% Cashback on online purchases From 1 Jan 2016 to 29 Feb 2016 (with min spend of $500 per month, capped at $100 per month)</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$64.20</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$128.40</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>2 years fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

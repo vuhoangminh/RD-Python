@@ -1,0 +1,72 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Complimentary access to over 600 airport VIP lounges twice a year with Personalised Priority Pass membership card.</Feature>
+    <Feature>2 Citi Miles on every S$1 overseas; 1.2 Citi Miles on every S$1 spent locally. 6 Citi Miles per S$1 spent on Expedia.com; 10 Citi Miles per S$1 on Kaligo.com</Feature>
+    <Feature>Earn 10,000 bonus Citi Miles upon renewal of annual membership.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Minimum 2,000 Citi Miles required for cash rebate redemption: 2,000 Citi Miles = S$20 rebate. Thereafter,  incremental of 1,000 Citi Miles can be redeemed for each S$10 rebate.</Feature>
+    <Feature>S$25 administration fee will be charged for each redemption. For processing of the redemption request, please allow 5 working days for KrisFlyer, Asia Miles, Executive Club, Infinity MileageLands, Enrich, Garuda Frequent Flyer, HHonors or IHG Rewards and 3 weeks for SkyMiles, Royal Orchid Plus or Etihad Guest.</Feature>
+    <Feature>Citi Miles Never Expire.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">S$80 Agoda eVoucher</FeatureDetails>
+      <FeatureRequire Name="Conditions">Charge a minimum spend of at least S$500 within 30 days of card approval. Promotion is valid till 31 April 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">First Year Fee Waiver</FeatureDetails>
+      <FeatureRequire Name="Conditions">-</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">-</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">1.70%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmile</Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">2.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 2 airmiles</Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 (spent on Kaligo) = 10 miles; 
+S$1 (spent on Expedia, Agoda, YTL Hotels) = 6 miles</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">0.00%</Feature>
+    <Feature Name="Airmiles">S$1 = 1.2 airmiles</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">Do not expire</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Annual Fee Waiver or 10,000 miles</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 192.6</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>Annual Fee Waiver or 10,000 miles</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>2.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>S$25 per transaction</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>25% / 28%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26% / 29%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  60</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 50,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 50,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

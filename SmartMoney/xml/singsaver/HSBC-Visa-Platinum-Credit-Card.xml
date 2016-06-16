@@ -1,0 +1,78 @@
+<CreaditDetails>
+  <Details Name="GreateFor">
+    <Feature>Up to 2% cash rebate on dining in Singapore. Kids play, dine and stay for free every day at Resorts World Sentosa.</Feature>
+    <Feature>Up to 5% cashback on all Grocery, Petrol (Caltex, Shell), and on Recurring Payment (eg: Internet/ Cable TV/ Mobile).</Feature>
+    <Feature>Earn 1 reward point for every S$1 spend.</Feature>
+  </Details>
+  <Details Name="SmallPrint">
+    <Feature>Rebates will be subject to a maximum cap of S$120 per account per Quarter.</Feature>
+    <Feature>Min spending of S$800/month for 3 consecutive months in a quarter to be eligible for 5% groceries, 5% petrol, 2% dining cashback.</Feature>
+    <Feature>Accumulate spending of S$400 monthly for all 3 months in a quarter to receive 3% cashback on groceries, Petrol (Caltex, Shell) &amp;amp; 1% dining cashback in Singapore.</Feature>
+  </Details>
+  <Details Name="Promotion">
+    <Feature Name="Online Application Special Offer">
+      <FeatureDetails Name="Details">S$20 Cash Rebate</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Select Samsonite RED Robo 65cm Luggage as the sign up gift. 2. Sign up and submit supporting documents online.</FeatureRequire>
+    </Feature>
+    <Feature Name="Welcome Gifts">
+      <FeatureDetails Name="Details">2 options: 
+                                                    1. Samsonite RED Robo 65cm Luggage worth S$335 OR
+                                                    2. RedMart grocery voucher worth S$80</FeatureDetails>
+      <FeatureRequire Name="Conditions">1. Samsonite RED Robo 65cm Luggage (worth S$335): Charge a minimum of S$600 within the first month of card issuance.
+                                                    2. S$80 RedMart grocery voucher: Charge a minimum of S$60 within the first month of card issuance.
+                                                    3. Credit card applications must be submitted between 1 Feb 2016 - 31 March 2016, and receive application approval by 15 April 2016.</FeatureRequire>
+    </Feature>
+    <Feature Name="Promo Expiry Date">31-Mar-2016</Feature>
+  </Details>
+  <Details Name="Local Spending">
+    <Feature Name="Cashback">2.72%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Overseas Spending">
+    <Feature Name="Cashback">1.00%</Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Online Shopping">
+    <Feature Name="Cashback">0.30%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Groceries">
+    <Feature Name="Cashback">5.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Shopping">
+    <Feature Name="Cashback">2.00%</Feature>
+    <Feature Name="Airmiles">-</Feature>
+  </Details>
+  <Details Name="Reward Points Expiry">
+    <Feature Name="Cashback">
+    </Feature>
+    <Feature Name="Airmiles">
+    </Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee<FeatureRequire>SGD 180</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Annual Fee<FeatureRequire>SGD 180</FeatureRequire></Feature>
+    <Feature>Annual Fees Waiver - Condition<FeatureRequire>First 2 Years Fee Waiver</FeatureRequire></Feature>
+    <Feature>Additional Card Annual Fee<FeatureRequire>Supplementary card fee = SGD 0</FeatureRequire></Feature>
+    <Feature>Foreign Currency Transaction Fee<FeatureRequire>1.50%</FeatureRequire></Feature>
+    <Feature>Air Miles Conversion Fee<FeatureRequire>-</FeatureRequire></Feature>
+    <Feature>Retail Purchase/Delinquency APR<FeatureRequire>24% / 26.5%</FeatureRequire></Feature>
+    <Feature>Cash Advance/Delinquency APR<FeatureRequire>26.5% / 26.5%</FeatureRequire></Feature>
+    <Feature>Interest Free Period<FeatureRequire>20 days</FeatureRequire></Feature>
+    <Feature>Minimum Repayment<FeatureRequire>3% of statement balance or S$50.</FeatureRequire></Feature>
+    <Feature>Late Payment Charge<FeatureRequire>SGD  55</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Minimum Income Citizen/PR<FeatureRequire>SGD 30,000</FeatureRequire></Feature>
+    <Feature>Minimum income Foreigners<FeatureRequire>SGD 40,000</FeatureRequire></Feature>
+    <Feature>Minimum Age<FeatureRequire>21 years old</FeatureRequire></Feature>
+    <Feature>Supplementrary Card Minimum Age<FeatureRequire>18 years old</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

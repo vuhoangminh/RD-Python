@@ -1,0 +1,19 @@
+<CreaditDetails>
+  <Details Name="Petrol" Rating="5" RatingDesc="">
+    <Feature>17% instant discount at Esso (5% site discount + 5% Smiles card discount + 7% card discount)</Feature>
+  </Details>
+  <Details Name="Rewards" Rating="1" RatingDesc="">
+    <Feature>S$5 = 1 DBS Point</Feature>
+    <Feature>Redeem for free fuels at Esso with DBS Points</Feature>
+    <Feature>Get S$40 Esso Synergy Fuel with 2600 DBS Points</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$45,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$42.80</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$85.60</FeatureRequire></Feature>
+    <Feature>Fee Waiver<FeatureRequire>1 year fee waiver</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>

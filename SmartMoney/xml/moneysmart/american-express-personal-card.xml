@@ -1,0 +1,24 @@
+<CreaditDetails>
+  <Details Name="Rewards" Rating="5" RatingDesc="">
+    <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature>
+    <Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature>
+    <Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature>
+    <Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature>
+  </Details>
+  <Details Name="Shopping" Rating="2" RatingDesc="">
+    <Feature>S$1.60 = 2 Membership Rewards points</Feature>
+    <Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature>
+  </Details>
+  <Details Name="Air Miles" Rating="1" RatingDesc="">
+    <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature>
+    <Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature>
+  </Details>
+  <Details Name="Eligibility">
+    <Feature>Singaporean Minimum Income<FeatureRequire>$30,000</FeatureRequire></Feature>
+    <Feature>Non-Singaporean Minimum Income<FeatureRequire>$60,000</FeatureRequire></Feature>
+  </Details>
+  <Details Name="Card Information">
+    <Feature>Annual Fee (Supplementary)<FeatureRequire>$75</FeatureRequire></Feature>
+    <Feature>Annual Fee (Principal)<FeatureRequire>$120</FeatureRequire></Feature>
+  </Details>
+</CreaditDetails>
