@@ -1,5 +1,7 @@
 from xml.etree.ElementTree import XML, fromstring, tostring
 import xml.etree.ElementTree as ET
+import os
+import re
 from os import walk
 import re
 
@@ -59,6 +61,8 @@ def findRating(string):
     else:
         return 0
 
+list=['Air Miles','Cash Back','Dining','Entertainment','Grocery','Rewards','Shopping'];
+
 def matchKeywords(tag):
     return{
         'Air Miles' : 'sc_airmiles',
@@ -69,9 +73,22 @@ def matchKeywords(tag):
         'Petrol' : 'sc_petrol',
         'Rewards' : 'sc_rewards',
         'Shopping' : 'sc_shopping',
+        'Student' : 'sc_students',
     }[tag]
 
-def insertCardName(fileName):
+# get card name
+def getCardName(pathName):
+    text = os.path.basename(pathName)
+    head, sep, tail = text.partition('.')
+    return head
+
+# get image path
+def getImagePath(pathName):
+    text = os.path.basename(pathName)
+    head, sep, tail = text.partition('.')
+    return './images/' + head + '.png'
+
+# get number
 
 
 
@@ -89,11 +106,19 @@ def insertCardName(fileName):
 #
 # convertOneFile('C:\\Users\\Huy\\Desktop\\hungbo\\MT\\singsaver\\xx.xml', 'C:\\Users\\Huy\\Desktop\\hungbo\\MT\\singsaver\\out.xml')
 
-tree = ET.parse('C:/Users/Admin/Desktop/SmartMoney/moneysmart/american-express-personal-card.xml')
+pathName='C:/Users/Admin/Desktop/SmartMoney/moneysmart/american-express-personal-card.xml'
+tree = ET.parse(pathName)
 root = tree.getroot()
-print matchKeywords('Air Miles')
-for child in root:
-    print child.tag, child.attrib
+print getImagePath(pathName)
+# a='Air Miles'
+# if a in list:
+#     print matchKeywords(a)
+# else:
+#     print 'nah'
+# for child in root:
+#     print child.tag, child.attrib
 
+str = "$30,000"
+print re.sub("[^0-9]", "", str)
 
 
