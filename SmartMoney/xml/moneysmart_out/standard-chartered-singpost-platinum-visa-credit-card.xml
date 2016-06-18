@@ -33,16 +33,16 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Interest Rate</Feature><Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
@@ -60,22 +60,22 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>7% CashBack on eligible online purchases (min. $600 spend/month)</Feature><Feature>2% CashBack on supermarket purchases (min. $600 spend/month)</Feature><Feature>CashBack up to $720 a year</Feature><Feature>0.2% CashBack on other retail purchases</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>7% cashback on eligible online purchases, 0.2% on all other spend</Feature><Feature>Enjoy exclusive dining privileges with The Good Life&#194;&#174;</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_entertainment_details">
   </Details>
@@ -84,10 +84,10 @@
   </Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>Get 2% CashBack on supermarket purchases</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_petrol_details">
   </Details>
@@ -96,16 +96,16 @@
   </Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  </Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  </Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Enjoy 7% CashBack on eligible online spending (min. $600 spend per month)</Feature><Feature>10% off Speedpost Priority Service package, 5% off SMARTPAC with minimum order of three pieces</Feature><Feature>vPost - 30% off shipment for new customers and 20% off for subsequent shipments</Feature><Feature>Omigo - $20 off with minimum spend of $80 for new customers and 15% off subsequent purchases</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/standard-chartered-singpost-platinum-visa-credit-card.png</Feature></Details>
 
 </CreaditDetails>

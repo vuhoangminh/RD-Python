@@ -33,16 +33,16 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
@@ -60,10 +60,10 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
   </Details>
@@ -78,34 +78,34 @@
   </Details>
 
   <Details Name="sc_entertainment_details">
-  </Details>
+  <Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature><Feature>2X Rewards Points for online and overseas spend</Feature></Details>
   
   <Details Name="sc_entertainment_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature><Feature>2X Rewards Points for online and overseas spend</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>Up to 16.6% savings on S$500 ANZ StarCash prepaid card for refuel at Caltex</Feature><Feature>Up to 20.4% savings on petrol at Caltex ($3 off every $50 gross petrol (Valid till 30 Sep 2016) + 5% site discount + Caltex Thanks! points + ANZ Bonus Rewards Programme with min. $500 retail spend in same month (Vaild till 30 Sep 2016))</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>S$5 = 1 point</Feature><Feature>6X Rewards Points for spend on selected grocery, transport and entertainment spend</Feature><Feature>2X Rewards Points for online and overseas spend</Feature><Feature>20X Rewards Points at participating merchants such as Caltex, G2000, Courts, Dorothy Perkins and more, with minimum spend of $500 in the same calendar month (Valid till 30 Sep 2016)</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  </Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  </Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/anz-platinum-credit-card.png</Feature></Details>
 
 </CreaditDetails>

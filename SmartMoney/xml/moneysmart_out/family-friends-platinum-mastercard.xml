@@ -33,16 +33,16 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
@@ -60,49 +60,49 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>Enjoy 5% cash rebates with min. spend of S$500 at selected merchant outlets such as NTUC, Cold Storage, Guardian and POPULAR Bookstores</Feature><Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>Enjoy 5% cash rebates with min. spend of S$500 at KFC Delivery, McDonald's Delivery and Pizza Hut Delivery</Feature><Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_entertainment_details">
-  </Details>
+  <Feature>Earn 0.3% cash rebates on all purchases</Feature></Details>
   
   <Details Name="sc_entertainment_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>Enjoy 5% cash rebates with min. spend of S$500 at NTUC, Cold Storage and Unity</Feature><Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>Enjoy 5% cash rebates with min. spend of S$500 at leading petrol stations in Malaysia (BHPetrol, Caltex, Petron, Petronas and Shell)</Feature><Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  </Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  </Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Enjoy 5% cash rebates with min. spend of S$500 at FOX Kids &amp; Baby, Mothercare, Toys "R" Us, Yamaha Music, Watsons, Guardian and POPULAR Bookstores</Feature><Feature>Earn 0.3% cash rebates on all other purchases or if spending is below S$500</Feature></Details>
   
   <Details Name="sc_shopping_rating">
   <Feature>2</Feature></Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/family-friends-platinum-mastercard.png</Feature></Details>
 
 </CreaditDetails>

@@ -33,10 +33,10 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/american-express-personal-card.png</Feature></Details>
 
 </CreaditDetails>

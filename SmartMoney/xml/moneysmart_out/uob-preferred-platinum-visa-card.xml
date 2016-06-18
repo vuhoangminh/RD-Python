@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>192.60</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>96.30</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature><Feature>Annual Interest Rate/ APR</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>40000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,10 +60,10 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
   </Details>
@@ -72,40 +72,40 @@
   </Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>10% rebate at Coffee Bean &amp; Tea Leaf and Beanstro</Feature><Feature>Enjoy 3% rebate at Bread Society, Bengawan Solo, BreadTalk, Hard Rock Cafe and Fragrance Foodstuff</Feature><Feature>Enjoy 2% rebate at Polar Puffs &amp; Cakes</Feature><Feature>Be rewarded 10X UNI$ every time you pay using Visa payWave</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_entertainment_details">
-  </Details>
+  <Feature>10X UNI$ on online purchases and entertainment</Feature><Feature>10X UNI$ on Visa payWave</Feature></Details>
   
   <Details Name="sc_entertainment_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>Enjoy 0.5% SMART$ rebate at Cold Storage, Giant, Jasons and Market Place</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>2% SMART$ rebate + up to 16% petrol discount at Caltex, and 5% savings at SPC</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>$5 = UNI$1</Feature><Feature>Earn rewards faster with 10X UNI$ when you make online purchases</Feature><Feature>Be rewarded 10X UNI$ every time you pay using Visa payWave</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
   <Feature>5</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Enjoy 2% rebate at Metro, World of Sports and Winter Time</Feature><Feature>Enjoy 3% rebate at bYSI, ColorWash, Crocodile, DHL, and Sephora</Feature><Feature>Enjoy 5% rebate at Tissot</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/uob-preferred-platinum-visa-card.png</Feature></Details>
 
 </CreaditDetails>

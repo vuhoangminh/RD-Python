@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>160.50</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>80.25</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>45000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,28 +60,28 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>1% cash rebate for monthly bills above S$1,000</Feature><Feature>0.5% cash rebate for monthly bills between S$500 and S$1,000</Feature><Feature>0.3% cash rebate for monthly bills S$500 and below</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>Get discounts for dining including Timbre, House, Rakuichi Japanese Restaurant, The Disgruntled Chef, Peach Garden, Peony Jade, Red House Seafood Restaurant, and more</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_entertainment_details">
-  </Details>
+  <Feature>Enjoy $1 off movie tickets at Shaw Theatres, and $26 movie package (U.P. $35.70) consisting of 2 regular movie tickets, 2 drinks and 1 popcorn</Feature><Feature>Buy 4 movie tickets for the price of 3 at Golden Village</Feature></Details>
   
   <Details Name="sc_entertainment_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_grocery_details">
   </Details>
@@ -90,22 +90,22 @@
   </Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>Get up to 14% upfront discount at Esso and Caltex</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  </Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  </Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  </Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  </Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/ocbc-cashflo.png</Feature></Details>
 
 </CreaditDetails>

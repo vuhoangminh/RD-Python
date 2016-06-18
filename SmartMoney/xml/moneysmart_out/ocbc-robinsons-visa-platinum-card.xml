@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>192.60</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>96.30</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>45000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,16 +60,16 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>10% cash rebate with purchases above $5,000 at Robinsons, Marks &amp; Spencer and John Little</Feature><Feature>5% cash rebate for purchases below $5,000 at participating 19 retail brands including Robinsons, Marks &amp; Spencer, John Little, Royal Sporting House, Golfhouse, Lacoste, Nautical, Speedo, Vans and Quiksilver</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_dining_details">
   </Details>
@@ -96,16 +96,16 @@
   </Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>$2 = 1 Robs$ (outside Robinsons Group of stores), S$2 spent overseas = 3 Robs</Feature><Feature>$200 Robs$ = S$1 off, 4,800 Robs$ = S$30 offReceive a 25% Robinsons bonus discount letter with min. spend $500 at Robinsons, Marks &amp; Spencer and/or John Little</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>10% cash rebate with purchases above $5,000 at Robinsons, Marks &amp; Spencer and John Little</Feature><Feature>5% cash rebate for purchases below $5,000 at participating 19 retail brands including Robinsons, Marks &amp; Spencer, John Little, Royal Sporting House, Golfhouse, Lacoste, Nautical, Speedo, Vans and Quiksilver</Feature><Feature>Receive a 25% Robinsons bonus discount letter with min. spend $500 at Robinsons, Marks &amp; Spencer and/or John Little</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>5</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/ocbc-robinsons-visa-platinum-card.png</Feature></Details>
 
 </CreaditDetails>

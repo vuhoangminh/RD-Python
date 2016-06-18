@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>3</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>45000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,22 +60,22 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>Enjoy 5% rebates at Unity</Feature><Feature>Enjoy 5% off everything at Fairprice and Fairprice Online</Feature><Feature>5% rebate in LinkPoints applicable only with minimum spend of $500 Visa transactions outside FairPrice, FairPrice Online and Unity within the same calendar month</Feature><Feature>Up to 18.3% rebates at Esso, 2% for EZ-Reload, and 1.3% for M1, StarHub, SPH, Town Council bills &amp; SP Services</Feature><Feature>0.3% rebate on all Visa spend</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_entertainment_details">
   </Details>
@@ -84,25 +84,25 @@
   </Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>Enjoy 5% off everything at Fairprice and Fairprice Online</Feature><Feature>Free delivery at www.fairprice.com.sg</Feature><Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>Up to 18.3% fuel savings at Esso stations island wide</Feature><Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature><Feature>Earn up to 2% LinkPoints rewards on EZ-Reload, telco bills and utilities</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Enjoy up to 50% off at GMarket, ZALORA, Asiatravel.com, foodpanda, Rakuten Singapore, Lazada.SG, Cath Kidston, and many more</Feature><Feature>Enjoy 3% off at Bata</Feature><Feature>Earn 0.3% LinkPoints rewards on all Visa spend</Feature></Details>
   
   <Details Name="sc_shopping_rating">
   <Feature>2</Feature></Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/ocbc-plus-visa-credit-card.png</Feature></Details>
 
 </CreaditDetails>

@@ -33,16 +33,16 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
@@ -60,22 +60,22 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good Life&#194;&#174;</Feature><Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_entertainment_details">
   </Details>
@@ -84,28 +84,28 @@
   </Details>
 
   <Details Name="sc_grocery_details">
-  </Details>
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
   
   <Details Name="sc_grocery_rating">
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  </Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  </Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good Life&#194;&#174;</Feature><Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/standard-chartered-manhattan-world-mastercard.png</Feature></Details>
 
 </CreaditDetails>

@@ -33,16 +33,16 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Interest Rate</Feature><Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
@@ -60,16 +60,16 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>Unlimited 1% CashBack on all MasterCard Debit Card transaction</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_dining_details">
   </Details>
@@ -96,16 +96,16 @@
   </Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>$1 = 2 points (at least $1,000 spend per month) with Salary Advance Line of Credit or Xtra Saver Current Account</Feature><Feature>$1 = 1 point</Feature><Feature>Exclusive dining, shopping and travel privileges with The Good Life&#194;&#174;</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Enjoy discounts off various outlets such as Nature's Farm, Salad Stop!, foodpanda, GNC and more with The Good Life&#194;&#174;</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>1</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/standard-chartered-platinum-credit-card.png</Feature></Details>
 
 </CreaditDetails>

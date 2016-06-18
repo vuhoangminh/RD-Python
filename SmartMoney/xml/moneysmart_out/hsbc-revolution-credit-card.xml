@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>N/A</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>40000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,10 +60,10 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
   </Details>
@@ -72,16 +72,16 @@
   </Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>$1 = 1 Reward point5X Rewards points on online, dining and entertainment</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>3</Feature></Details>
 
   <Details Name="sc_entertainment_details">
-  </Details>
+  <Feature>Weekdays Movie Card at $70 for 10 weekday movie ticket (save up to $15). All Days Movie Card at $85 for 10 any day tickets (save up to $30)5X Rewards points on online, dining and entertainment</Feature></Details>
   
   <Details Name="sc_entertainment_rating">
-  </Details>
+  <Feature>5</Feature></Details>
 
   <Details Name="sc_grocery_details">
   </Details>
@@ -90,19 +90,19 @@
   </Details>
 
   <Details Name="sc_petrol_details">
-  </Details>
+  <Feature>16% instant discount Caltex stations (5% site discount + 9% HSBC card discount + 2% outdoor fuel payment discount)</Feature><Feature>14% instant discount at Shell stations (5% site discount + 5% shell escape discount + 4% HSBC card discount)</Feature><Feature>*Outdoor Fuel Payment discount valid till 30 April</Feature></Details>
   
   <Details Name="sc_petrol_rating">    
-  </Details>
+  <Feature>4</Feature></Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>5X Rewards points on online, dining and entertainment everyday</Feature><Feature>$1 = 1 Reward point for all other spend</Feature><Feature>No minimum spend and earn as many Rewards points as you like</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
   <Feature>5</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>5X Rewards points on online, dining and entertainment</Feature></Details>
   
   <Details Name="sc_shopping_rating">
   <Feature>2</Feature></Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/hsbc-revolution-credit-card.png</Feature></Details>
 
 </CreaditDetails>

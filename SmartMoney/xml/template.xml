@@ -1,141 +1,119 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  	<Feature></Feature>
   </Details>
 
-   <Details Name="sc_cashback_percent">
-    <Feature></Feature>
+  <Details Name="sc_cashback_percent">
   </Details>
 
   <Details Name="sc_airmile_per_sgd">
-    <Feature></Feature>
   </Details>
   
   <Details Name="sc_main_benefit">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_main_benefit_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_promotion_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_promotion_cond">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_promotion_end">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_gift_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_gift_cond">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_gift_end">
-    <Feature></Feature>
   </Details>
 
-   <Details Name="sc_annual_fee" >
-    <Feature></Feature>
+  <Details Name="sc_annual_fee" >
   </Details>
+  
   <Details Name="sc_sup_annual_fee">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_fc_trans_fee">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_other_fee">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_local_income">
-    <Feature></Feature>
   </Details>
-    <Details Name="sc_foreigner_income">
-    <Feature></Feature>
+  
+  <Details Name="sc_foreigner_income">
   </Details>
 
   <Details Name="sc_main_card_age">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_sup_card_age">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_disclosure">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_airmiles_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_airmiles_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_cashback_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_cashback_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_dining_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_dining_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_entertainment_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_entertainment_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_grocery_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_grocery_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_petrol_details">
-    <Feature></Feature>
   </Details>
-  <Details Name="sc_petrol_rating">
-    <Feature></Feature>
+  
+  <Details Name="sc_petrol_rating">    
   </Details>
-
 
   <Details Name="sc_rewards_details">
-    <Feature></Feature>
   </Details>
-  <Details Name="sc_rewards_rating">
-    <Feature></Feature>
+  
+  <Details Name="sc_rewards_rating">   
   </Details>
-
 
   <Details Name="sc_shopping_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_shopping_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_student_details">
-    <Feature></Feature>
   </Details>
+  
   <Details Name="sc_student_rating">
-    <Feature></Feature>
   </Details>
 
   <Details Name="sc_main_image">
-    <Feature>./images/</Feature>
   </Details>
 
 </CreaditDetails>

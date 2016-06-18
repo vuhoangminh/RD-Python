@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>256.80</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>128.40</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature><Feature>Annual Interest Rate/ APR</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30000</Feature></Details>
+  <Feature>80000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>80000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,10 +60,10 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  <Feature>$1 = 1.4 miles (local spend)</Feature><Feature>$1 = 2.4 miles (overseas spend)</Feature><Feature>Earn 3 miles every S$1 spent on Singapore Airlines, SilkAir &amp; KrisShop</Feature><Feature>Bonus 20,000 miles with spend of $50,000 in a year</Feature><Feature>Personal accident and travel inconvenience insurance coverage of up to S$1,000,000</Feature><Feature>Rebate of S$45 for each one-way limousine service to Singapore Changi Airport with min. overseas spend of S$1,000 within each qualifying quarter</Feature></Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  <Feature>5</Feature></Details>
 
   <Details Name="sc_cashback_details">
   </Details>
@@ -96,16 +96,16 @@
   </Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  </Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  </Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  </Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  </Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/uob-prvi-miles-platinum-card.png</Feature></Details>
 
 </CreaditDetails>

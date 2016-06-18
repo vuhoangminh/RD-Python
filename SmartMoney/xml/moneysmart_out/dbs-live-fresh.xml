@@ -33,22 +33,22 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>120</Feature></Details>
+  <Feature>128.40</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>75</Feature></Details>
+  <Feature>64.20</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>
   
   <Details Name="sc_other_fee">
-  </Details>
+  <Feature>Fee Waiver</Feature></Details>
 
   <Details Name="sc_local_income">
   <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  <Feature>45000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   </Details>
@@ -60,22 +60,22 @@
   </Details>
 
   <Details Name="sc_airmiles_details">
-  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  </Details>
   
   <Details Name="sc_airmiles_rating">
-  <Feature>1</Feature></Details>
+  </Details>
 
   <Details Name="sc_cashback_details">
-  </Details>
+  <Feature>Receive 6% Cashback on online purchases From 1 Jan 2016 to 29 Feb 2016 (with min spend of $500 per month, capped at $100 per month)</Feature></Details>
   
   <Details Name="sc_cashback_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_dining_details">
-  </Details>
+  <Feature>$5 = 1 DBS Point</Feature><Feature>3X DBS Points on overseas spend and local Visa payWave</Feature><Feature>Enjoy discounts at over 1,000 outlets islandwide with the DBS Indulge program</Feature></Details>
   
   <Details Name="sc_dining_rating">
-  </Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_entertainment_details">
   </Details>
@@ -96,16 +96,16 @@
   </Details>
 
   <Details Name="sc_rewards_details">
-  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  <Feature>$5 = 1 DBS Point</Feature><Feature>Enjoy 3X DBS Points on your travel bookings, overseas spend, every EZ-Reload auto top-up, and local Visa payWave transactions</Feature><Feature>Enjoy 3X DBS Points on your online shopping</Feature></Details>
   
   <Details Name="sc_rewards_rating">   
-  <Feature>5</Feature></Details>
+  <Feature>2</Feature></Details>
 
   <Details Name="sc_shopping_details">
-  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  <Feature>Receive 6% Cashback on online purchases From 1 Jan 2016 to 29 Feb 2016 (with min spend of $500 per month, capped at $100 per month)</Feature><Feature>$5 = 1 DBS Point</Feature><Feature>Plus, enjoy 3X DBS Points on your online shopping, overseas spend and local visa PayWave</Feature></Details>
   
   <Details Name="sc_shopping_rating">
-  <Feature>2</Feature></Details>
+  <Feature>5</Feature></Details>
 
   <Details Name="sc_student_details">
   </Details>
@@ -114,6 +114,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  </Details>
+  <Feature>./images/dbs-live-fresh.png</Feature></Details>
 
 </CreaditDetails>
