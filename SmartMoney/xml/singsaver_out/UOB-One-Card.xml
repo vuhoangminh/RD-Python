@@ -21,16 +21,16 @@
   <Feature>1. Limited to first 600 applicants who had never held a UOB Principal Card in the last 6 months prior to 1 Jan 2016. 2. Charge a minimum amount of S$600 within the first 30 days of card approval. 3. Promotion is not valid for UOB PRVI Miles American Express&#174; Card, UOB PRVI Miles World MasterCard Card and UOB PRVI Miles Visa Card application. 4. Promotion period from 1 January 2016 to 31 March 2016.</Feature></Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
   <Feature>S$50 Cash Credit for your first UOB Card</Feature></Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>128.4</Feature></Details>
@@ -45,10 +45,10 @@
   <Feature>Retail Purchase/Delinquency APR: 25% / 25%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: Up to 21 days</Feature><Feature>Minimum Repayment: 3% of current balance or $50, whichever is higher, plus any overdue amounts.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>40,000</Feature></Details>
+  <Feature>40000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

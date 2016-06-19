@@ -15,28 +15,28 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>29.96</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>N/A</Feature></Details>
+  </Details>
   
   <Details Name="sc_fc_trans_fee">
   <Feature>2.50%</Feature></Details>
@@ -45,10 +45,10 @@
   <Feature>Air Miles Conversion Fee: S$25 per transaction</Feature><Feature>Air Miles Conversion Fee: S$25 per transaction</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: S$25 or 1% of the current balance plus 1% of any outstanding unbilled installment amounts plus interest charges (including interest/service charges for any recurring/ installment payments) plus late payment charge plus any overdue amounts, whichever is greater. If the current balance is less than S$25, the minimum payment amount shall be equivalent to the current balance.</Feature><Feature>Late Payment Charge: SGD  40</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>18,000</Feature></Details>
+  <Feature>18000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_main_card_age">
   <Feature>18</Feature></Details>

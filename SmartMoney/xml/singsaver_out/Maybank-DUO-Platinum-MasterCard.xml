@@ -15,13 +15,13 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
   <Feature>S$50 cash credit</Feature></Details>
@@ -30,7 +30,7 @@
   <Feature>1. Apply for and charge a minimum of S$500 on card within the first month</Feature></Details>
   
   <Details Name="sc_gift_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>120</Feature></Details>
@@ -45,10 +45,10 @@
   <Feature>Retail Purchase/Delinquency APR: 24% / 24*%</Feature><Feature>Cash Advance/Delinquency APR: 24% / 24%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$20.</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60,000</Feature></Details>
+  <Feature>60000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

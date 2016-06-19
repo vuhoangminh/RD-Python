@@ -15,10 +15,10 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
   <Feature>31-Mar-2016</Feature></Details>
@@ -47,10 +47,10 @@
   <Feature>Retail Purchase/Delinquency APR: 25% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 26% / 29%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: 1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>42,000</Feature></Details>
+  <Feature>42000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

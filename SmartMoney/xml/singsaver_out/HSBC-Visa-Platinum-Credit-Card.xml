@@ -49,10 +49,10 @@
   <Feature>Retail Purchase/Delinquency APR: 24% / 26.5%</Feature><Feature>Cash Advance/Delinquency APR: 26.5% / 26.5%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$50.</Feature><Feature>Late Payment Charge: SGD  55</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>40,000</Feature></Details>
+  <Feature>40000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

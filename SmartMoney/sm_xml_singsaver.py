@@ -76,7 +76,7 @@ def getNumber(str):
     # return re.sub("[^%.0-9]", "", head)
     a=re.findall("[-]?\d+[\.,]?\d*[%]?", str)
     if len(a)>0:
-        return a[0]
+        return re.sub("[^%.0-9]", "", a[0])
     else:
         return '-'
 
@@ -145,15 +145,16 @@ def getRatingAndFeature(child):
 # count = doc.xpath('count(//author)')
 
 def writeNode(pathNameOut,rootTemplate,tagName,content):
-    newNodeStr = 'Feature'
-    iCount=0
-    for child in rootTemplate:
-        if rootTemplate[iCount].get('Name') == tagName:
-            newNode = ET.Element(newNodeStr)
-            newNode.text = content
-            rootTemplate[iCount].insert(len(child), newNode)
-            treeTemplate.write(pathNameOut)
-        iCount=iCount+1
+    if content != 'N/A' and content != '-' and content != 'No details':
+        newNodeStr = 'Feature'
+        iCount=0
+        for child in rootTemplate:
+            if rootTemplate[iCount].get('Name') == tagName:
+                newNode = ET.Element(newNodeStr)
+                newNode.text = content
+                rootTemplate[iCount].insert(len(child), newNode)
+                treeTemplate.write(pathNameOut)
+            iCount=iCount+1
 
 def readandwrite_moneysmart(pathNameOut,pathNameIn):
     treeIn = ET.parse(pathNameIn)

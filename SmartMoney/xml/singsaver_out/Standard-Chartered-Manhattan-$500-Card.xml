@@ -15,28 +15,28 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>30</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>N/A</Feature></Details>
+  </Details>
   
   <Details Name="sc_fc_trans_fee">
   <Feature>2.50%</Feature></Details>
@@ -45,10 +45,10 @@
   <Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 22 days</Feature><Feature>Minimum Repayment: $50 or 1% of principal plus interest, fees and charges; plus any overlimit amount and past due amount.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>18,000</Feature></Details>
+  <Feature>18000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_main_card_age">
   <Feature>18</Feature></Details>

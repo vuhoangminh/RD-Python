@@ -15,13 +15,13 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
   <Feature>Up to S$120 Cashback:
@@ -29,10 +29,10 @@
                                                     2. S$50 Cashback when you apply for DBS Cashline at the same time</Feature></Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>128.4</Feature></Details>
@@ -47,10 +47,10 @@
   <Feature>Retail Purchase/Delinquency APR: 25.9% / 28.9%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$50.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>45,000</Feature></Details>
+  <Feature>45000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

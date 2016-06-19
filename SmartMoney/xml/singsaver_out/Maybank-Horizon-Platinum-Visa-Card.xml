@@ -15,22 +15,22 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>150</Feature></Details>
@@ -45,10 +45,10 @@
   <Feature>Air Miles Conversion Fee: S$25 per transaction</Feature><Feature>Air Miles Conversion Fee: S$25 per transaction</Feature><Feature>Retail Purchase/Delinquency APR: 24% / 24%</Feature><Feature>Cash Advance/Delinquency APR: 24% / 24%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of outstanding balance or S$20, whichever is higher.</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>30,000</Feature></Details>
+  <Feature>30000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60,000</Feature></Details>
+  <Feature>60000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

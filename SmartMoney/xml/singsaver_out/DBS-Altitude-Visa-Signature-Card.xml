@@ -25,10 +25,10 @@
   <Feature>31-Mar-2016</Feature></Details>
 
   <Details Name="sc_gift_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
   <Feature>31-Mar-2016</Feature></Details>
@@ -46,10 +46,10 @@
   <Feature>Air Miles Conversion Fee: S$42.80 annually</Feature><Feature>Air Miles Conversion Fee: S$42.80 annually</Feature><Feature>Retail Purchase/Delinquency APR: 24.9% / 28.9%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$50.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>50,000</Feature></Details>
+  <Feature>50000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>50,000</Feature></Details>
+  <Feature>50000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

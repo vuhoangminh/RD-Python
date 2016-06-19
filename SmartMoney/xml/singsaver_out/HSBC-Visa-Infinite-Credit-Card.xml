@@ -15,13 +15,13 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
   <Feature>2 options: 
@@ -30,10 +30,10 @@
                                                     2. 30,000 air miles redeemable with over 30 leading airlines</Feature></Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>488</Feature></Details>
@@ -42,16 +42,16 @@
   <Feature>0</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_other_fee">
   </Details>
 
   <Details Name="sc_local_income">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>-</Feature></Details>
+  </Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>

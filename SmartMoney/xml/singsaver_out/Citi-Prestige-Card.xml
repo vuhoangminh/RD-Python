@@ -15,13 +15,13 @@
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
   <Feature>62,500 Citi Dollars (or 25,000 miles)</Feature></Details>
@@ -31,7 +31,7 @@
                                                     2. The full cost of the welcome gift will be charged if Citi Prestige card is closed or terminated within 9 months from the date of account opening.</Feature></Details>
   
   <Details Name="sc_gift_end">
-  <Feature>No details</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
   <Feature>535</Feature></Details>
@@ -46,10 +46,10 @@
   <Feature>Retail Purchase/Delinquency APR: 25% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 26% / 29%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: 1% of current a/c balance plus 1% outstanding amount plus interest charges plus late charges OR S$50 whichever is higher.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
 
   <Details Name="sc_local_income">
-  <Feature>120,000</Feature></Details>
+  <Feature>120000</Feature></Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>120,000</Feature></Details>
+  <Feature>120000</Feature></Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>
