@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>anz-switch-platinum-card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>
@@ -33,10 +33,10 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>N/A</Feature></Details>
+  <Feature>0</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>N/A</Feature></Details>
+  <Feature>0</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>

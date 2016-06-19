@@ -1,0 +1,122 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>ICBC-VISA-Dual-Currency-Credit-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Flexibility in payment currency between USD and SGD for various payment modes in Singapore.</Feature><Feature>2.5% foreign transaction fee waivered if USD is used.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>S$200 cash rebate
+                                                    FREE Round-trip economic China Southern Airlines flight ticket to Guangzhou.</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>Cash rebate on available if you sign up for both the VISA and UnionPay Credit cards where you will receive S$50 for each principal card (S$50 x 2 = S$100)
+                                                    Sign up for 2 supplementary cards for each credit card type to receive the remaining S$100 (S$25 each x 4 = S$100). Maximum of 2 supplementary cards eligible for cash rebate for each card type.
+                                                    Round trip only available if S$3,000 is spent within one month of card approval and is paid in full by the end of that month.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>30</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>15</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 24% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 24% / 28%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: 5% of balance or S$40, whichever is higher.</Feature><Feature>Late Payment Charge: SGD  40</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30,000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>30,000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>21</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Rewards are available only in limited amounts and are awarded in a first-come-first served basis</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/ICBC-VISA-Dual-Currency-Credit-Card.png</Feature></Details>
+
+</CreaditDetails>

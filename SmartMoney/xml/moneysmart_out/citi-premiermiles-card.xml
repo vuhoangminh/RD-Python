@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>citi-premiermiles-card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>
@@ -36,7 +36,7 @@
   <Feature>192.60</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
-  <Feature>N/A</Feature></Details>
+  <Feature /></Details>
   
   <Details Name="sc_fc_trans_fee">
   </Details>

@@ -1,0 +1,120 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Citi-Prestige-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Receive 62,500 Citi Dollars (or 25,000 miles) or a Smartwatch or a Tablet and USD$100 Hotels.com e-voucher with payment of annual membership fee of S$535.</Feature><Feature>Earn 3.25 Citi Dollars (or 1.3 miles) for every $1 spent locally. Earn 5 Citi Dollars (or 2 miles) for every $1 spent overseas. Earn additional annual Relationship Bonus (denominated in Citi Dollars) based on your annual retail spend and depth of relationship with Citi. Citi Dollars never expire.</Feature><Feature>Unlimited complimentary night at any hotel of your choice after a minimum 4-consecutive-night booking. Unlimited airport lounge access for primary cardmember.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>62,500 Citi Dollars (or 25,000 miles)</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Pay annual membership fee of S$535 full upfront.
+                                                    2. The full cost of the welcome gift will be charged if Citi Prestige card is closed or terminated within 9 months from the date of account opening.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>535</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>0</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 25% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 26% / 29%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: 1% of current a/c balance plus 1% outstanding amount plus interest charges plus late charges OR S$50 whichever is higher.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>120,000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>120,000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Citi-Prestige-Card.png</Feature></Details>
+
+</CreaditDetails>

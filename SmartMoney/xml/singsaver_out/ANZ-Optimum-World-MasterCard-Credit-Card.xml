@@ -1,0 +1,121 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>ANZ-Optimum-World-MasterCard-Credit-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>No minimum spend required and no cap on total accumulated cash rebate.</Feature><Feature>1% cashback on all other spend.</Feature><Feature>5% cashback on one category of your choice (Dining, Travel, Shopping, Groceries).</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>29-Feb-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>S$100 Cash Rebate</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Minimum spend of at least S$488 in retail purchases within 30 days of card approval is required.
+                                                    2. Promotion period from 1 November 2016 - 29 February 2016. Receive application approval from bank by 15 March 2016. 
+                                                    3. Only applicable to New-to-Bank customers.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>29-Feb-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>90</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 25% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 51 days</Feature><Feature>Minimum Repayment: 3% of the outstanding balance or S$50 whichever is higher.</Feature><Feature>Late Payment Charge: SGD  20</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>80,000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>80,000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Maximum of S$30 cashback on each transaction.</Feature><Feature>1% cashback if you do not select a preferred rebate category by 25th of the month preceding the start of a calendar quarter.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/ANZ-Optimum-World-MasterCard-Credit-Card.png</Feature></Details>
+
+</CreaditDetails>

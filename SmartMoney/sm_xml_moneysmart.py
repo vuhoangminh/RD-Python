@@ -92,19 +92,19 @@ def getImagePath(pathName):
     return './images/' + head + '.png'
 
 
-# get number
-def getNumber(str):
-    if ',' in str:
-        return re.sub("[^0-9]", "", str)
-    else:
-        if len(re.findall("\d+\.\d+", str))>0:
-            return re.findall("\d+\.\d+", str)[0]
-print getNumber('30,000')
-print getNumber('30.00')
-
-#
+# # get number
 # def getNumber(str):
-#     return float(''.join(ele for ele in str if ele.isdigit() or ele == '.'))
+#     if ',' in str:
+#         return re.sub("[^0-9]", "", str)
+#     else:
+#         if len(re.findall("\d+\.\d+", str))>0:
+#             return re.findall("\d+\.\d+", str)[0]
+
+def getNumber(str):
+    head, sep, tail = str.partition('(')
+    return re.sub("[^%.0-9]", "", head)
+
+
 
 # get local & foreign income
 def getEligibilityIncome(child):
@@ -200,7 +200,8 @@ def readandwrite(pathNameOut,pathNameIn):
                 if 'Eligibility' == name:
                     writeNode(pathNameOut, rootTemplate, 'sc_local_income', getEligibilityIncome(child)[0])
                     writeNode(pathNameOut, rootTemplate, 'sc_foreigner_income', getEligibilityIncome(child)[1])
-    writeNode(pathNameOut, rootTemplate, 'sc_main_image', './images/'+getCardName(pathNameIn)+'.png')
+    writeNode(pathNameOut, rootTemplate, 'sc_main_image', './images/'+ getCardName(pathNameIn)+'.png')
+    writeNode(pathNameOut, rootTemplate, 'sc_card_name', getCardName(pathNameIn))
 
 
 pathNameTemplate =  'D:/Users/RD/Documents/GitHub/RD-Python/SmartMoney/xml/template.xml'

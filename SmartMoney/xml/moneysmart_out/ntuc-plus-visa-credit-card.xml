@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>ntuc-plus-visa-credit-card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>
@@ -33,7 +33,7 @@
   </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>N/A</Feature></Details>
+  <Feature>0</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
   <Feature>3</Feature></Details>

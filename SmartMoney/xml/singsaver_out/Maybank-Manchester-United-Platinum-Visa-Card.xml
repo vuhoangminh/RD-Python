@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Maybank-Manchester-United-Platinum-Visa-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Stand a chance to win a trip for two to watch Manchester United LIVE every football season.</Feature><Feature>Complimentary Supplementary Cards for loved ones.</Feature><Feature>Earn 5 TREATS Points for every dollar spent when Manchester United wins a Premier League match.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>A limited edition Manchester United Scarf</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>Apply online via Maybank2u.com.sg!</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>Limited edition Manchester United Scarf</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Gift is limited to the first 3,000 successful applicants.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>60</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>N/A</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>1.00%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Cash Advance/Delinquency APR: 24% / 24%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of outstanding balance or S$20, whichever is higher.</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30,000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60,000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>10 TREATS Points for every dollar spent can only be earned at Manchester United Store - United Direct Online Megastore.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Maybank-Manchester-United-Platinum-Visa-Card.png</Feature></Details>
+
+</CreaditDetails>

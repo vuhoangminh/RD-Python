@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>citi-dividend-card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>

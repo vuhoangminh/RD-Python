@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>ocbc-365-credit-card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>

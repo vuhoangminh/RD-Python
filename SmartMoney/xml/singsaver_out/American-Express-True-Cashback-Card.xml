@@ -1,0 +1,122 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>American-Express-True-Cashback-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Book with American Express Cards and enjoy attractive offers on hotels and flight bookings with ZUJI Singapore.</Feature><Feature>1.5% cashback on all spend with no cashback cap.</Feature><Feature>Up to 50% savings when dining at a wide selection of restaurants islandwide.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>-</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>1. 3% cashback on up to S$5,000 spend for the first six months AND
+                                                    2. Fee waiver for the first year</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. 3% cashback on all spend onboth main and supplementary cards in first 6 months.
+                                                    2. During promotional period, cashback rate of 1.5% will not be applied in addition to cashback rate of 3%.
+                                                    3. Purchases in excess of S$5,000 during promo period will earn cashback of 1.5% (standard rate).</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>No details</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>171.2</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>85.60</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 24.99% / 29.99%</Feature><Feature>Cash Advance/Delinquency APR: 24.99% / 24.99%</Feature><Feature>Interest Free Period: 21 days</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30,000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60,000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Cashback is only awarded if your account is in good standing and not overdue.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/American-Express-True-Cashback-Card.png</Feature></Details>
+
+</CreaditDetails>
