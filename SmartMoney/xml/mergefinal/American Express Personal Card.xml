@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>American Express Personal Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  </Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>120</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>75</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  </Details>
+  
+  <Details Name="sc_other_fee">
+  </Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  </Details>
+  
+  <Details Name="sc_sup_card_age">
+  </Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  <Feature>Exclusive Savings with Zuji - 12% savings at participating hotels and 2% savings on all flight bookings</Feature><Feature>Up to S$200,000 accidental death and dismemberment insurance while travelling on a public conveyance</Feature></Details>
+  
+  <Details Name="sc_airmiles_rating">
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>S$1.60 = 5 Membership Rewards points at Starbucks, Jasons Market Place, Kinokuniya, Amazon &amp; EpiCentre</Feature><Feature>S$1.60 = 2 Membership Rewards points on everything else</Feature><Feature>Enrol in Non-Frequent Traveller Rewards Programme (S$10) to redeem dining &amp; shopping rewards</Feature><Feature>OR Enrol in Frequent Traveller Rewards Programme (S$40) to redeem dining &amp; shopping rewards, flights and hotel stays</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>5</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  <Feature>S$1.60 = 2 Membership Rewards points</Feature><Feature>Purchase Protection included - offers repair, replacement or reimbursement to purchased goods damaged or stolen within 90 days</Feature></Details>
+  
+  <Details Name="sc_shopping_rating">
+  <Feature>2</Feature></Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/American Express Personal Card.png</Feature></Details>
+
+</CreaditDetails>

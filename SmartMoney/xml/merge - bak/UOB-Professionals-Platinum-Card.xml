@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>UOB-Professionals-Platinum-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Use UNI$ to redeem for dining, shopping and travel vouchers in UOB Rewards programme or convert UNI$ to airmiles to redeem free flights and upgrades.</Feature><Feature>Perpetual waiver of annual fee for principal and 1st supplementary card.</Feature><Feature>Open the doors to savoury treats and discounts at over 1,000 dining establishments.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  </Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>96.30</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 25% / 25%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 21 days</Feature><Feature>Minimum Repayment: 3% of current balance or $50, whichever is higher, plus any overdue amounts.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>40000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>UNI$ 5000 = 10,000 Asia Miles.</Feature><Feature>Applicant must be an existing member of either: Alumni Association, Institute of Singapore Chartered Accountants (ISCA), Law Society of Singapore, Singapore Medical Association (SMA), The Association of Chartered Certified. Accountants (ACCA).</Feature><Feature>Get SMART$ rebate instantly at more than 600 participating outlets all year round including Caltex, Cathay Cineplexes, Breadtalk and more.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/UOB-Professionals-Platinum-Card.png</Feature></Details>
+
+</CreaditDetails>

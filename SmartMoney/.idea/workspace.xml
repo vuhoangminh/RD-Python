@@ -2,10 +2,268 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67eab190-9c71-4648-ad5f-2dbe3ecb9173" name="Default" comment="test commit">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SmartMoney.iml" afterPath="$PROJECT_DIR$/.idea/SmartMoney.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sm_xml_process.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ANZ-Optimum-World-MasterCard-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ANZ-Travel-Visa-Signature-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/American-Express-Platinum-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/American-Express-True-Cashback-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/CIMB-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/CIMB-Visa-Infinite-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/CIMB-Visa-Signature-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/CIMB-WORLD-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-Clear-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-DIVIDEND-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-M1-Platinum-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-PremierMiles-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-Prestige-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-Rewards-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Citibank-SMRT-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Altitude-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Altitude-Visa-Signature-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Black-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Black-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Live-Fresh-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Woman's-Mastercard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/DBS-Woman's-World-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/HSBC's-Revolution-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/HSBC-Visa-Infinite-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/HSBC-Visa-Platinum-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ICBC-UnionPay-Dual-Currency-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ICBC-VISA-Dual-Currency-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-Business-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-DUO-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-Family-Friends-Platinum-MasterCard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-Horizon-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-Manchester-United-Platinum-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-World-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Maybank-eVibes-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/OCBC-365-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/OCBC-Frank-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/OCBC-Titanium-Mastercard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/POSB-Everyday-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-Manhattan-$500-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-NUS-Alumni-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-Platinum-MasterCard-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-Platinum-Visa-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-Prudential-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-SingPost-Platinum-Visa-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-Tigerair-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-Delight-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-Lady's-Platinum-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-One-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-PRVI-Miles-Platinum-American-Express-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-PRVI-Miles-Platinum-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-PRVI-Miles-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-PRVI-Miles-World-MasterCard-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-Preferred-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/UOB-Professionals-Platinum-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/american-express-personal-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/american-express-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/american-express-true-cashback-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/anz-optimum-world-mastercard-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/anz-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/anz-switch-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/anz-travel-visa-signature-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/citibank-dividend-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/citibank-premiermiles-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/citibank-rewards-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/citibank-smrt-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-altitude-visa-signature-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-black-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-esso-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-live-fresh-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-takashimaya-platinum-american-express-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/dbs-woman's-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/hsbc-advance-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/hsbc-revolution-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/hsbc-visa-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/maybank-family-friends-platinum-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/maybank-horizon-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/maybank-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ntuc-plus-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-365-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-cashflo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-frank-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-platinum-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-plus-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-robinsons-visa-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/ocbc-titanium-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/posb-everyday-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/standard-chartered-manhattan-world-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/standard-chartered-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/standard-chartered-singpost-platinum-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/uob-delight-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/uob-lady's-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/uob-one-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge - bak/uob-preferred-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ANZ-Optimum-World-MasterCard-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ANZ-Travel-Visa-Signature-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/American-Express-Platinum-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/American-Express-True-Cashback-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/CIMB-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/CIMB-Visa-Infinite-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/CIMB-Visa-Signature-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/CIMB-WORLD-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-Clear-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-DIVIDEND-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-M1-Platinum-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-PremierMiles-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-Prestige-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-Rewards-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Citibank-SMRT-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Altitude-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Altitude-Visa-Signature-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Black-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Black-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Live-Fresh-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Woman's-Mastercard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/DBS-Woman's-World-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/HSBC-Revolution-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/HSBC-Visa-Infinite-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/HSBC-Visa-Platinum-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ICBC-UnionPay-Dual-Currency-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ICBC-VISA-Dual-Currency-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-Business-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-DUO-Platinum-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-Family-Friends-Platinum-MasterCard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-Horizon-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-Manchester-United-Platinum-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-World-MasterCard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Maybank-eVibes-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/OCBC-365-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/OCBC-Frank-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/OCBC-Titanium-Mastercard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/POSB-Everyday-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-MANHATTAN-World-MasterCard (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-Manhattan-$500-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-NUS-Alumni-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-Platinum-MasterCard-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-Platinum-Visa-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-Prudential-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-SingPost-Platinum-Visa-Credit-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/Standard-Chartered-Tigerair-Platinum-Credit-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-Delight-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-Lady's-Platinum-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-One-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-PRVI-Miles-Platinum-American-Express-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-PRVI-Miles-Platinum-American-Express-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-PRVI-Miles-Visa-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-PRVI-Miles-World-MasterCard-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-Preferred-Platinum-Visa-Card (2).xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/UOB-Professionals-Platinum-Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/american-express-personal-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/american-express-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/american-express-true-cashback-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/anz-optimum-world-mastercard-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/anz-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/anz-switch-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/anz-travel-visa-signature-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/citibank-dividend-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/citibank-premiermiles-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/citibank-rewards-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/citibank-smrt-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-altitude-visa-signature-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-black-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-esso-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-live-fresh-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-takashimaya-platinum-american-express-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/dbs-woman's-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/hsbc-advance-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/hsbc-revolution-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/hsbc-visa-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/maybank-family-friends-platinum-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/maybank-horizon-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/maybank-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ntuc-plus-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-365-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-cashflo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-frank-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-platinum-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-plus-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-robinsons-visa-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/ocbc-titanium-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/posb-everyday-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/standard-chartered-manhattan-world-mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/standard-chartered-platinum-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/standard-chartered-singpost-platinum-visa-credit-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/uob-delight-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/uob-lady's-platinum-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/uob-one-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/merge/uob-preferred-platinum-visa-card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ANZ Optimum World Mastercard Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ANZ Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ANZ Switch Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ANZ Travel Visa Signature Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/American Express Personal Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/American Express Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/American Express True Cashback Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/CIMB Platinum Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/CIMB Visa Infinite Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/CIMB Visa Signature Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/CIMB World Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Clear Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Dividend Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank M1 Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Premiermiles Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Prestige Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Rewards Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Citibank Smrt Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Altitude American Express Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Altitude Visa Signature Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Black American Express Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Black Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Esso Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Live Fresh Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Takashimaya Platinum American Express Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Woman's Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/DBS Woman's World Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/HSBC Advance Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/HSBC Revolution Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/HSBC Visa Infinite Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/HSBC Visa Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ICBC Unionpay Dual Currency Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/ICBC Visa Dual Currency Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Business Platinum Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Duo Platinum Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Evibes Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Family Friends Platinum Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Horizon Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Manchester United Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Maybank World Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/NTUC Plus Visa Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC 365 Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Cashflo.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Frank Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Platinum Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Plus Visa Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Robinsons Visa Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/OCBC Titanium Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/POSB Everyday Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Manhattan $500 Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Manhattan World Mastercard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Nus Alumni Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Platinum Mastercard Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Platinum Visa Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Prudential Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Singpost Platinum Visa Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/Standard Chartered Tigerair Platinum Credit Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Delight Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Lady's Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB One Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Preferred Platinum Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Professionals Platinum Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Prvi Miles Platinum American Express Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Prvi Miles Visa Card.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xml/mergefinal/UOB Prvi Miles World Mastercard Card.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml/xml.rar" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/xml/singsaver_out/Standard-Chartered-MANHATTAN-World-MasterCard®.xml" afterPath="$PROJECT_DIR$/xml/merge - bak/Standard-Chartered-MANHATTAN-World-MasterCard (2).xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sm_xml_singsaver.py" afterPath="$PROJECT_DIR$/sm_xml_singsaver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sm_xml_moneysmart.py" afterPath="$PROJECT_DIR$/sm_xml_moneysmart.py" />
     </list>
     <ignored path="SmartMoney.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,17 +284,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sm_xml_singsaver.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sm_xml_singsaver.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sm_xml_singsaver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2431">
-              <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+            <state relative-caret-position="-2172">
+              <caret line="137" column="40" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="40" />
               <folding>
                 <element signature="e#0#71#0" expanded="true" />
                 <element signature="e#3496#4478#0" expanded="false" />
-                <element signature="e#4517#4666#0" expanded="false" />
                 <element signature="e#7259#7409#0" expanded="false" />
                 <element signature="e#12057#13843#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sm_xml_moneysmart.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sm_xml_moneysmart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1251">
+              <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sm_xml_process.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sm_xml_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +341,12 @@
         <option value="$PROJECT_DIR$/sm_xml_parser.py" />
         <option value="$PROJECT_DIR$/sm_xml.py" />
         <option value="$PROJECT_DIR$/xml/sm_xml_singsaver.py" />
-        <option value="$PROJECT_DIR$/sm_xml_moneysmart.py" />
         <option value="$PROJECT_DIR$/sm_xml_singsaver.py" />
+        <option value="$PROJECT_DIR$/xml/sm_xml_process.py" />
+        <option value="$PROJECT_DIR$/sm_xml_moneysmart.py" />
+        <option value="$PROJECT_DIR$/xml/testing.py" />
+        <option value="$PROJECT_DIR$/testing.py" />
+        <option value="$PROJECT_DIR$/sm_xml_process.py" />
       </list>
     </option>
   </component>
@@ -98,6 +381,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -132,7 +416,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -141,24 +424,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.sm_xml_singsaver">
-    <configuration default="false" name="sm_xml_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SmartMoney" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sm_xml_parser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.sm_xml_process">
     <configuration default="false" name="sm_xml" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,28 +440,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sm_xml.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in SmartMoney" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SmartMoney" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="sm_xml_moneysmart" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -228,6 +472,40 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SmartMoney" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sm_xml_singsaver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sm_xml_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SmartMoney" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sm_xml_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SmartMoney" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -367,19 +645,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sm_xml_parser" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sm_xml" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SmartMoney" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sm_xml_moneysmart" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sm_xml_singsaver" />
+      <item index="0" class="java.lang.String" itemvalue="Python.sm_xml" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sm_xml_moneysmart" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sm_xml_singsaver" />
+      <item index="3" class="java.lang.String" itemvalue="Python.sm_xml_process" />
+      <item index="4" class="java.lang.String" itemvalue="Python.testing" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sm_xml_singsaver" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sm_xml_moneysmart" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sm_xml" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SmartMoney" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sm_xml_parser" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sm_xml_process" />
+        <item index="1" class="java.lang.String" itemvalue="Python.testing" />
+        <item index="2" class="java.lang.String" itemvalue="Python.sm_xml_singsaver" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sm_xml_moneysmart" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sm_xml" />
       </list>
     </recent_temporary>
   </component>
@@ -440,18 +718,18 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35775128" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39693356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3114572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975501" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -490,7 +768,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="33" />
+      <option name="time" value="35" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -502,7 +780,6 @@
           <folding>
             <element signature="e#0#71#0" expanded="true" />
             <element signature="e#3496#4478#0" expanded="false" />
-            <element signature="e#4517#4666#0" expanded="false" />
             <element signature="e#7259#7409#0" expanded="false" />
             <element signature="e#12057#13843#0" expanded="false" />
           </folding>
@@ -516,7 +793,19 @@
           <folding>
             <element signature="e#0#71#0" expanded="true" />
             <element signature="e#3496#4478#0" expanded="false" />
-            <element signature="e#4517#4666#0" expanded="false" />
+            <element signature="e#7259#7409#0" expanded="false" />
+            <element signature="e#12057#13843#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sm_xml_singsaver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+            <element signature="e#3496#4478#0" expanded="false" />
             <element signature="e#7259#7409#0" expanded="false" />
             <element signature="e#12057#13843#0" expanded="false" />
           </folding>
@@ -553,13 +842,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sm_xml.py" />
     <entry file="file://$PROJECT_DIR$/xml/sm_xml_singsaver.py" />
-    <entry file="file://$PROJECT_DIR$/sm_xml_moneysmart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="202" column="0" selection-start-line="202" selection-start-column="0" selection-end-line="203" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Enthought/Canopy/App/appdata/canopy-1.7.2.3327.win-x86_64/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -567,16 +849,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xml/sm_xml_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sm_xml_singsaver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2431">
-          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+        <state relative-caret-position="-2172">
+          <caret line="137" column="40" selection-start-line="137" selection-start-column="40" selection-end-line="137" selection-end-column="40" />
           <folding>
             <element signature="e#0#71#0" expanded="true" />
             <element signature="e#3496#4478#0" expanded="false" />
-            <element signature="e#4517#4666#0" expanded="false" />
             <element signature="e#7259#7409#0" expanded="false" />
             <element signature="e#12057#13843#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sm_xml_moneysmart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1251">
+          <caret line="125" column="29" selection-start-line="125" selection-start-column="29" selection-end-line="125" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sm_xml_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="72" column="48" selection-start-line="72" selection-start-column="48" selection-end-line="72" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
           </folding>
         </state>
       </provider>

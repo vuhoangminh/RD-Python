@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>standard-chartered-platinum-credit-card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  </Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>N/A</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  </Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Interest Rate</Feature><Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  </Details>
+  
+  <Details Name="sc_sup_card_age">
+  </Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  <Feature>Unlimited 1% CashBack on all MasterCard Debit Card transaction</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
+  
+  <Details Name="sc_cashback_rating">
+  <Feature>3</Feature></Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>$1 = 2 points (at least $1,000 spend per month) with Salary Advance Line of Credit or Xtra Saver Current Account</Feature><Feature>$1 = 1 point</Feature><Feature>Exclusive dining, shopping and travel privileges with The Good Life&#194;&#174;</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  <Feature>Enjoy discounts off various outlets such as Nature's Farm, Salad Stop!, foodpanda, GNC and more with The Good Life&#194;&#174;</Feature></Details>
+  
+  <Details Name="sc_shopping_rating">
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/standard-chartered-platinum-credit-card.png</Feature></Details>
+
+</CreaditDetails>

@@ -1,6 +1,6 @@
 <CreaditDetails>
   <Details Name="sc_card_name">
-  </Details>
+  <Feature>HSBC-Visa-Infinite-Credit-Card</Feature></Details>
 
   <Details Name="sc_cashback_percent">
   </Details>
@@ -9,49 +9,49 @@
   </Details>
   
   <Details Name="sc_main_benefit">
-  <Feature>Get approval-in-principle in 60 seconds.</Feature><Feature>Earn up to $800 CashBack annually by charging eligible purchases to the card both local and overseas.</Feature><Feature>Banking online on-the-go: Pay bills of over 360 organisations online.</Feature></Details>
+  <Feature>Unlimited complimentary Priority Pass membership access to 700 VIP airport lounges globally</Feature><Feature>Comprehensive travel insurance programme covering over 20 benefits of up to US$2 million (annual value worth S$988^). Protected against unforeseen travel events like emergency evacuation and repatriation, medical expenses, trip cancellation, loss of  baggage/travel documents, rental car excess, and personal liability to third party damages.</Feature><Feature>Unlimited access to one-way limousine transfer to the airport and  expedited immigration clearance at key airports in Asia</Feature></Details>
   
   <Details Name="sc_main_benefit_rating">
   </Details>
 
   <Details Name="sc_promotion_details">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_cond">
-  <Feature>-</Feature></Details>
+  </Details>
   
   <Details Name="sc_promotion_end">
-  <Feature>30-Jun-2016</Feature></Details>
+  </Details>
 
   <Details Name="sc_gift_details">
-  <Feature>S$138 Cashback OR
-                                                     S$100 Cashback</Feature></Details>
+  <Feature>2 options: 
+                                                    1. Bose SoundTouch&#174; 20 Series III Wireless Music System worth S$699&amp;nbsp;OR
+
+                                                    2. 30,000 air miles redeemable with over 30 leading airlines</Feature></Details>
   
   <Details Name="sc_gift_cond">
-  <Feature>1. S$138 Cashback if the application is submitted online.
-                                                    2. S$100 Cashback if the application is submitted through other channels.
-                                                    3. Promotion is valid till 30 June 2016.</Feature></Details>
+  </Details>
   
   <Details Name="sc_gift_end">
-  <Feature>30-Jun-2016</Feature></Details>
+  </Details>
 
   <Details Name="sc_annual_fee">
-  <Feature>180</Feature></Details>
+  <Feature>488</Feature></Details>
   
   <Details Name="sc_sup_annual_fee">
   <Feature>0</Feature></Details>
   
   <Details Name="sc_fc_trans_fee">
-  <Feature>3.50%</Feature></Details>
+  </Details>
   
   <Details Name="sc_other_fee">
-  <Feature>Retail Purchase/Delinquency APR 24.455% / 28%</Feature><Feature>Cash Advance/Delinquency APR 28% / 28%</Feature><Feature>Interest Free Period 22 days</Feature><Feature>Minimum Repayment $50 or 3% of principal plus interest, fees and charges; plus any overlimit amount and past due amount.</Feature><Feature>Late Payment Charge SGD  60</Feature></Details>
+  </Details>
 
   <Details Name="sc_local_income">
-  <Feature>30000</Feature></Details>
+  </Details>
   
   <Details Name="sc_foreigner_income">
-  <Feature>60000</Feature></Details>
+  </Details>
 
   <Details Name="sc_main_card_age">
   <Feature>21</Feature></Details>
@@ -60,7 +60,7 @@
   <Feature>18</Feature></Details>
 
   <Details Name="sc_disclosure">
-  <Feature>Maximum cashback of $200 per quarter.</Feature><Feature>Cashback depends on amount spent: S$1 - S$999: 0.5%, S$1000 - S$2999: 1%, &amp;gt;= S$3000: 3%</Feature></Details>
+  <Feature>^Based on exclusively tailored benefits for HSBC Visa Infinite cardholders on extended family plan basis. Charge full travel expense to the HSBC Visa Infinite card to enjoy automatic coverage.</Feature><Feature>Unlimited complimentary one-way limousine transfer to the airport and expedited immigration clearance services require a minimum S$5,000 quarterly spending.</Feature></Details>
 
   <Details Name="sc_airmiles_details">
   </Details>
@@ -117,4 +117,6 @@
   </Details>
 
   <Details Name="sc_main_image">
-  <Feature>
+  <Feature>./images/HSBC-Visa-Infinite-Credit-Card.png</Feature></Details>
+
+</CreaditDetails>

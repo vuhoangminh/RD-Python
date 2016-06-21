@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>hsbc-visa-platinum-credit-card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  </Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature /></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  </Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>40000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  </Details>
+  
+  <Details Name="sc_sup_card_age">
+  </Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  <Feature>5% cash rebate on Recurring Mobile/Cable TV/Internet Bill Payment (with min. $400 spend/month in a quarter)</Feature><Feature>5% or 3% cash rebates on all grocery spend (with min. $800 or $400 spend/month in a quarter)</Feature><Feature>5% or 3% cash rebates at all Shell and Caltex stations (with min. $800 or $400 spend/month in a quarter)</Feature><Feature>2% or 1% cash rebates on dining (with min. $800 or $400 spend/month in a quarter) Cash rebates capped at S$60 per Account per Quarter</Feature></Details>
+  
+  <Details Name="sc_cashback_rating">
+  <Feature>2</Feature></Details>
+
+  <Details Name="sc_dining_details">
+  <Feature>$1 = 1 Rewards point</Feature><Feature>1% cash rebates on all dining spend with min. S$400 spend/month for all 3 months in a calendar quarter</Feature><Feature>2% cash rebates on all dining spend with min. S$800 spend/month for all 3 months in a calendar quarter</Feature></Details>
+  
+  <Details Name="sc_dining_rating">
+  <Feature>5</Feature></Details>
+
+  <Details Name="sc_entertainment_details">
+  <Feature>Weekdays Movie Card at $70 for 10 weekday movie ticket (save up to $15)</Feature><Feature>All Days Movie Card at $85 for 10 any day tickets (save up to $30)</Feature></Details>
+  
+  <Details Name="sc_entertainment_rating">
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_grocery_details">
+  <Feature>3% cash rebates on all grocery spend with min. S$400 spend/month for all 3 months in a calendar quarter</Feature><Feature>5% cash rebates on all grocery spend with min. S$800 spend/month for all 3 months in a calendar quarter</Feature></Details>
+  
+  <Details Name="sc_grocery_rating">
+  <Feature>3</Feature></Details>
+
+  <Details Name="sc_petrol_details">
+  <Feature>Up to 20.2% in savings at Shell and Caltex stations</Feature><Feature>16% instant discount Caltex stations (5% site discount + 9% HSBC card discount + 2% outdoor fuel payment discount* + 3% or 5% cash rebate)</Feature><Feature>14% instant discount at Shell stations (5% site discount + 5% shell escape discount + 4% HSBC card discount)</Feature><Feature>3% or 5% in cash rebates (min. spend $400 or $800/month respectively for all 3 months)</Feature><Feature>*Outdoor Fuel Payment discount valid till 30 April</Feature></Details>
+  
+  <Details Name="sc_petrol_rating">    
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>$1 = 1 Rewards point</Feature><Feature>Earn HSBC Rewards points when you pay your taxes with your credit card</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>3</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/hsbc-visa-platinum-credit-card.png</Feature></Details>
+
+</CreaditDetails>

@@ -1,0 +1,121 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>DBS-Black-American-Express-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Earn 2 DBS Point (or 4 miles) for every S$5 spend on all transactions.</Feature><Feature>Exclusive American Express Selects privileges all year round. Privileges include savings from hotels, branded labels and restaurants at key destinations around the world and in Singapore.</Feature><Feature>Get free Travel Accident Insurance Coverage of up to S$350,000 by charging your travel fares to DBS Black American Express Card in full.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>Up to S$120 Cashback:
+                                                    1. S$70 Cashback when you charge a min. of S$700 per month for the first 2 months AND
+                                                    2. S$50 Cashback when you apply for DBS Cashline at the same time</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>Apply for the card before 31 March 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>192.6</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>96.30</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>3.00%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 25.9% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$50.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>48000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/DBS-Black-American-Express-Card.png</Feature></Details>
+
+</CreaditDetails>

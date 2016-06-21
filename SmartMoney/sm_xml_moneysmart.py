@@ -183,11 +183,7 @@ def readandwrite(pathNameOut,pathNameIn):
     for child in rootIn:
         name = child.get('Name')
         if name in list:
-            # print name
-            # print getRatingAndFeature(child)[0]
-            # print matchKeywords(name) + '_rating'
             writeNode(pathNameOut, rootTemplate, matchKeywords(name) + '_rating', getRatingAndFeature(child)[0])
-            # writeNode(pathNameOut, rootTemplate, matchKeywords(name) + '_details', getRatingAndFeature(child)[])
             for eachFeature in getRatingAndFeature(child)[1]:
                 writeNode(pathNameOut, rootTemplate, matchKeywords(name) + '_details', eachFeature)
         else:

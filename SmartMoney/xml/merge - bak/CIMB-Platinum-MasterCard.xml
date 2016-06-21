@@ -1,0 +1,121 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>CIMB-Platinum-MasterCard</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>0% administrative fee for foreign currency transactions. Cross border fee of 0.2% levied by MasterCard still applies.</Feature><Feature>Enjoy complimentary one-way airport transfers.</Feature><Feature>10% cashback on Travel and Health, Beauty &amp;amp; Wellness; 0.2% cashback on all other spend.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>31 March 2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>Limited edition ez-link card with S$40 stored value</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Successfully apply for 2 new principal CIMB Credit Cards (except CIMB Classic MasterCard)
+                                                    2. Make a minimum of 3 transactions with either of the approved principal CIMB Credit Card within 1 month from the card approval date.
+                                                    3. Application must be approved no later than 30 April 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>31 March 2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  </Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  </Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>0.20%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 23 days</Feature><Feature>Minimum Repayment: 3% of the outstanding balance or S$50.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>48000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>A minimum spend of S$500 has to be charged within 90 days to enjoy the Complimentary One-way Airport Transfer. Limited to 2 redemptions per Cardmember per year.</Feature><Feature>10% cashback is capped at S$60 per statement month. Upon reaching the cap of S$60, 0.2% cashback is applied on the additional spend. No cashback cap for 0.2% cashback.</Feature><Feature>A minimum spend of $500 with at least 8 transactions of $30 or more per statement month has to be charged to the card for 10% cashback.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/CIMB-Platinum-MasterCard.png</Feature></Details>
+
+</CreaditDetails>
