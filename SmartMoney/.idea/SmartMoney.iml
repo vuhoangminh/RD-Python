@@ -2,7 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 2.7.11 virtualenv at D:\canopy" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 2.7.11 (C:\Users\Admin\AppData\Local\Enthought\Canopy\App\appdata\canopy-1.7.2.3327.win-x86_64\python.exe)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">

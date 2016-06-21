@@ -2,9 +2,6 @@ from xml.etree.ElementTree import XML, fromstring, ElementTree, Element
 import xml.etree.ElementTree as ET
 import os
 import re
-from os import walk
-import re
-import lxml.etree
 
 # moneysmart list and match
 list_moneysmart = ['Air Miles', 'Cash Back', 'Dining', 'Entertainment', 'Petrol', 'Grocery', 'Rewards', 'Shopping', 'Student'];
