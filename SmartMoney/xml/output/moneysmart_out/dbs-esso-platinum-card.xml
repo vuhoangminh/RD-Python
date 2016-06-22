@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>dbs-esso-platinum-card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  </Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>85.60</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>42.80</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  </Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>45000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  </Details>
+  
+  <Details Name="sc_sup_card_age">
+  </Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  <Feature>17% instant discount at Esso (5% site discount + 5% Smiles card discount + 7% card discount)</Feature></Details>
+  
+  <Details Name="sc_petrol_rating">    
+  <Feature>5</Feature></Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>S$5 = 1 DBS Point</Feature><Feature>Redeem for free fuels at Esso with DBS Points</Feature><Feature>Get S$40 Esso Synergy Fuel with 2600 DBS Points</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/dbs-esso-platinum-card.png</Feature></Details>
+
+</CreaditDetails>

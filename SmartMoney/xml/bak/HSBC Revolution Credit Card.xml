@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>HSBC Revolution Credit Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Earn 5x rewards points per S$1 spent online, on dining, and entertainment.</Feature><Feature>No min spend required for redemption.</Feature><Feature>Earn 1 reward point for every S$1 spend.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  <Feature>S$20 Cash Rebate</Feature></Details>
+  
+  <Details Name="sc_promotion_cond">
+  <Feature>1. Select Samsonite RED Robo 65cm Luggage as the sign up gift. 2. Sign up and submit supporting documents online.</Feature></Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>2 options: </Feature><Feature>1. Samsonite RED Robo 65cm Luggage worth S$335 OR</Feature><Feature>2. RedMart grocery voucher worth S$80</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Samsonite RED Robo 65cm Luggage (worth S$335): Charge a minimum of S$600 within the first month of card issuance.</Feature><Feature>2. S$80 RedMart grocery voucher: Charge a minimum of S$60 within the first month of card issuance.</Feature><Feature>3. Credit card applications must be submitted between 1 Feb 2016 - 31 March 2016, and receive application approval by 15 April 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>150</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>0</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>1.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>40000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Account must be in good standing and conducted in a proper and satisfactory manner as determined by HSBC in its sole discretion at the time of crediting the Rewards.</Feature><Feature>Dining and entertainment merchants exclude merchants within local hotels.</Feature><Feature>Online Transactions refer to retail transactions made via the internet and processed by the respective merchants/acquirers as an online transaction type through the Visa Worldwide networks.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  <Feature>$1 = 1 Reward point5X Rewards points on online, dining and entertainment</Feature></Details>
+  
+  <Details Name="sc_dining_rating">
+  <Feature>3</Feature></Details>
+
+  <Details Name="sc_entertainment_details">
+  <Feature>Weekdays Movie Card at $70 for 10 weekday movie ticket (save up to $15). All Days Movie Card at $85 for 10 any day tickets (save up to $30)5X Rewards points on online, dining and entertainment</Feature></Details>
+  
+  <Details Name="sc_entertainment_rating">
+  <Feature>5</Feature></Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  <Feature>16% instant discount Caltex stations (5% site discount + 9% HSBC card discount + 2% outdoor fuel payment discount)</Feature><Feature>14% instant discount at Shell stations (5% site discount + 5% shell escape discount + 4% HSBC card discount)</Feature><Feature>*Outdoor Fuel Payment discount valid till 30 April</Feature></Details>
+  
+  <Details Name="sc_petrol_rating">    
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>5X Rewards points on online, dining and entertainment everyday</Feature><Feature>$1 = 1 Reward point for all other spend</Feature><Feature>No minimum spend and earn as many Rewards points as you like</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>5</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  <Feature>5X Rewards points on online, dining and entertainment</Feature></Details>
+  
+  <Details Name="sc_shopping_rating">
+  <Feature>2</Feature></Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/HSBC Revolution Credit Card.png</Feature></Details>
+
+</CreaditDetails>

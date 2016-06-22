@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>OCBC Titanium Mastercard</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Earn 3 OCBC$ for every S$1 overseas spend; 1 OCBC$ for every S$1 local spend.</Feature><Feature>Earn 2 air miles for every S$1 spend overseas and at local clubs such as The Pump Room &amp;amp; Timbre; 1 air miles for every S$1 spend elsewhere.</Feature><Feature>Exclusive access to entertainment privileges.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  </Details>
+  
+  <Details Name="sc_gift_cond">
+  </Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>192.60</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>96.30</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.80%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>45000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Titanium Bonus Miles awarded will be limited to 100,000 Titanium Bonus Miles per Cardmember per calendar month.</Feature><Feature>Accumulate spending of S$1500 a month to qualify for bonus miles.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  <Feature>Get 1 air miles (local spend) with every S$1 spent with a min. spend of $1,500 monthlyGet 2 air miles Get 1 air miles (local spend) with every S$1 spent with a min. spend of $1,500 monthly</Feature><Feature>Get 2 air miles (overseas spend) with every S$1 spent with a min. spend of $1,500 monthly</Feature><Feature>Redeem OCBC$ for a host of travel privileges such as free hotel stay packages, air tickets and many more</Feature><Feature>Convert OCBC$ to KrisFlyer miles (10,000 OCBC$ = 4,000 KrisFlyer miles)</Feature></Details>
+  
+  <Details Name="sc_airmiles_rating">
+  <Feature>2</Feature></Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  <Feature>Get 4 movie tickets for the price of 3 at GV</Feature><Feature>Redeem OCBC$ for shopping vouchers, hotel stays, movie tickets, golf games, concert tickets and more</Feature></Details>
+  
+  <Details Name="sc_entertainment_rating">
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  <Feature>Earn 3x OCBC$ for your overseas spend and 1x OCBC$ for your other spend</Feature><Feature>Redeem OCBC$ for shopping vouchers, hotel stays, movie tickets, golf games, concert tickets and more</Feature></Details>
+  
+  <Details Name="sc_rewards_rating">   
+  <Feature>3</Feature></Details>
+
+  <Details Name="sc_shopping_details">
+  <Feature>Earn 3x OCBC$ for your overseas spend and 1x OCBC$ for your local spend</Feature><Feature>Redeem OCBC$ for shopping vouchers, hotel stays, movie tickets, golf games, concert tickets and more</Feature><Feature>7% discount on ZALORA website every Thursday (Valid till 31 Dec 2015)</Feature></Details>
+  
+  <Details Name="sc_shopping_rating">
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/OCBC Titanium Mastercard.png</Feature></Details>
+
+</CreaditDetails>

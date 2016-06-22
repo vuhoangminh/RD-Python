@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Standard Chartered Platinum Mastercard Credit Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Earn up to 300 reward points per month on existing banking relationships in deposits, mortgage, investments, when S$250 is charged to Platinum Credit Card.</Feature><Feature>Get approval-in-principle in 60 seconds. Exclusive dining, shopping and travel privileges with The Good Life. Enjoy golf privileges all year round and access to 24-hour Platinum conceirge service.</Feature><Feature>Earn 2 points per S$1 charged to the credit card for spend of at least S$1,000 per month. Earn 1 point per S$1 charged for spend less than S$1,000 per month.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>30-Jun-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>S$138 Cashback OR</Feature><Feature>S$100 Cashback</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. S$138 Cashback if the application is submitted online.</Feature><Feature>2. S$100 Cashback if the application is submitted through other channels.</Feature><Feature>3. Promotion is valid till 30 June 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>30-Jun-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>0</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>3.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 24.455% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 22 days</Feature><Feature>Minimum Repayment: $50 or 3% of principal plus interest, fees and charges; plus any overlimit amount and past due amount.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  </Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Standard Chartered Platinum Mastercard Credit Card.png</Feature></Details>
+
+</CreaditDetails>

@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Maybank Business Platinum Mastercard</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Earn 1 TREATS Point for every dollar spent and redeem cashbacks.</Feature><Feature>Redeem TREATS Points for frequent flyer miles on Singapore Airlines or Malaysia Airlines, or be spoilt for choice with a wide array of rewards from gifts to vouchers.</Feature><Feature>Gain access to MasterCard smartdatagen2, a powerful online expense management solution.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  </Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>The Coffee Bean &amp;amp; Tea Leaf&#8217;s CBTL single serve beverage machine worth S$199</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Apply for and charge a minimum of S$500 to the card within the first month of approval</Feature><Feature>2. Account must not be closed within 9 months of opening</Feature><Feature>Valid only for successful applications that are submitted by 30 June 2015</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  </Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  </Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>1.00%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Cash Advance/Delinquency APR: 18% / 18%</Feature><Feature>Interest Free Period: 20 days</Feature><Feature>Minimum Repayment: 3% of statement balance or S$20.</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
+
+  <Details Name="sc_local_income">
+  </Details>
+  
+  <Details Name="sc_foreigner_income">
+  </Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Complimentary printing of your business logo on your Card.</Feature><Feature>Company must be in operation for at least 2 years, with an annual sales turnover of at least S$200,000.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Maybank Business Platinum Mastercard.png</Feature></Details>
+
+</CreaditDetails>

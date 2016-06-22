@@ -1,0 +1,121 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>CIMB-Visa-Infinite-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>1% cashback on all local spend; 2% cashback on overseas and travel related spend.</Feature><Feature>Exclusive offers, discounts and privileges at over 1,000 established merchant outlets in Singapore, Malaysia and Indonasia.</Feature><Feature>Personal Concierge for your every need, anytime and anywhere.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>31 March 2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>Limited edition ez-link card with S$40 stored value</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Successfully apply for 2 new principal CIMB Credit Cards (except CIMB Classic MasterCard)
+                                                    2. Make a minimum of 3 transactions with either of the approved principal CIMB Credit Card within 1 month from the card approval date.
+                                                    3. Application must be approved no later than 30 April 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>31 March 2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  </Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  </Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.40%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Cash Advance/Delinquency APR: 28% / 28%</Feature><Feature>Interest Free Period: 23 days</Feature><Feature>Minimum Repayment: 3% of the outstanding balance or S$60.</Feature><Feature>Late Payment Charge: SGD  50</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>120000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>120000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Accumulate S$2,000 in a statement month for 2% cashback on Overseas &amp;amp; Travel spend.</Feature><Feature>Additional 1% cashback will be credited and reflected in the following statement month after spend criteria has been met into the Principal Cardmember&#8217;s account and statement.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/CIMB-Visa-Infinite-Card.png</Feature></Details>
+
+</CreaditDetails>

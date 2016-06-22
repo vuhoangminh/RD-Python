@@ -1,0 +1,119 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Standard Chartered Manhattan World Mastercard</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Get approval-in-principle in 60 seconds.</Feature><Feature>Earn up to $800 CashBack annually by charging eligible purchases to the card both local and overseas.</Feature><Feature>Banking online on-the-go: Pay bills of over 360 organisations online.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>30-Jun-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>S$138 Cashback OR</Feature><Feature>S$100 Cashback</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. S$138 Cashback if the application is submitted online.</Feature><Feature>2. S$100 Cashback if the application is submitted through other channels.</Feature><Feature>3. Promotion is valid till 30 June 2016.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>30-Jun-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>180</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>N/A</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>3.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Fee Waiver</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>60000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Maximum cashback of $200 per quarter.</Feature><Feature>Cashback depends on amount spent: S$1 - S$999: 0.5%, S$1000 - S$2999: 1%, &amp;gt;= S$3000: 3%</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature><Feature>15% CashBack on dining with minimum spend $688 during qualifying periods (16 Jan to 15 Feb 2016, 16 Feb to 15 Mar 2016) (Capped at $88) Register online or SMS CNY(space)16-digit credit card number to 77222</Feature></Details>
+  
+  <Details Name="sc_cashback_rating">
+  <Feature>2</Feature></Details>
+
+  <Details Name="sc_dining_details">
+  <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good Life&#194;&#174;</Feature><Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature></Details>
+  
+  <Details Name="sc_dining_rating">
+  <Feature>4</Feature></Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
+  
+  <Details Name="sc_grocery_rating">
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_petrol_details">
+  <Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
+  
+  <Details Name="sc_petrol_rating">    
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  <Feature>Indulge in over 1,000 great deals islandwide from dining offers to shopping, travel and lifestyle benefits with The Good Life&#194;&#174;</Feature><Feature>Earn up to 3% CashBack monthly on eligible spend (Capped at $200 per quarter)</Feature><Feature>First $999: 0.5% / $1,000 to $2,999: 1% / $3,000 and above: 3%</Feature></Details>
+  
+  <Details Name="sc_shopping_rating">
+  <Feature>1</Feature></Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Standard Chartered Manhattan World Mastercard.png</Feature></Details>
+
+</CreaditDetails>

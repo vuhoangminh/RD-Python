@@ -1,0 +1,121 @@
+<CreaditDetails>
+  <Details Name="sc_card_name">
+  <Feature>Citibank-DIVIDEND-Card</Feature></Details>
+
+  <Details Name="sc_cashback_percent">
+  </Details>
+
+  <Details Name="sc_airmile_per_sgd">
+  </Details>
+  
+  <Details Name="sc_main_benefit">
+  <Feature>Enjoy 20.88% savings at Esso, 20.8% savings at Shell fuel stations and 8% cashback at all other petrol stations.</Feature><Feature>Enjoy 8% cash back at all grocery stores and F&amp;amp;B outlets  worldwide.</Feature><Feature>Cash rebates earned will not expire.</Feature></Details>
+  
+  <Details Name="sc_main_benefit_rating">
+  </Details>
+
+  <Details Name="sc_promotion_details">
+  </Details>
+  
+  <Details Name="sc_promotion_cond">
+  </Details>
+  
+  <Details Name="sc_promotion_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_gift_details">
+  <Feature>$120 cash rebate</Feature></Details>
+  
+  <Details Name="sc_gift_cond">
+  <Feature>1. Apply for 2 Citibank Credit Cards and receive approval within 30 days from date of application. 
+                                                    2. Charge a minimum of S$200 per month on either one of the cards for 6 consecutive months.
+                                                    3. Receive a maximum of $20 cashback per month for 6 consecutive months.</Feature></Details>
+  
+  <Details Name="sc_gift_end">
+  <Feature>31-Mar-2016</Feature></Details>
+
+  <Details Name="sc_annual_fee">
+  <Feature>192.6</Feature></Details>
+  
+  <Details Name="sc_sup_annual_fee">
+  <Feature>96.30</Feature></Details>
+  
+  <Details Name="sc_fc_trans_fee">
+  <Feature>2.50%</Feature></Details>
+  
+  <Details Name="sc_other_fee">
+  <Feature>Retail Purchase/Delinquency APR: 25% / 28%</Feature><Feature>Cash Advance/Delinquency APR: 26% / 29%</Feature><Feature>Interest Free Period: 25 days</Feature><Feature>Minimum Repayment: 1% of current a/c balance plus 1% outstanding amount plus late charges or S$50, whichever is higher.</Feature><Feature>Late Payment Charge: SGD  60</Feature></Details>
+
+  <Details Name="sc_local_income">
+  <Feature>30000</Feature></Details>
+  
+  <Details Name="sc_foreigner_income">
+  <Feature>42000</Feature></Details>
+
+  <Details Name="sc_main_card_age">
+  <Feature>21</Feature></Details>
+  
+  <Details Name="sc_sup_card_age">
+  <Feature>18</Feature></Details>
+
+  <Details Name="sc_disclosure">
+  <Feature>Maximum cash back of $25 per category (Petrol, Grocery, Dining) per month.</Feature><Feature>8% cash back on petrol, groceries and dining is awarded with a min. spend of $888/month.</Feature></Details>
+
+  <Details Name="sc_airmiles_details">
+  </Details>
+  
+  <Details Name="sc_airmiles_rating">
+  </Details>
+
+  <Details Name="sc_cashback_details">
+  </Details>
+  
+  <Details Name="sc_cashback_rating">
+  </Details>
+
+  <Details Name="sc_dining_details">
+  </Details>
+  
+  <Details Name="sc_dining_rating">
+  </Details>
+
+  <Details Name="sc_entertainment_details">
+  </Details>
+  
+  <Details Name="sc_entertainment_rating">
+  </Details>
+
+  <Details Name="sc_grocery_details">
+  </Details>
+  
+  <Details Name="sc_grocery_rating">
+  </Details>
+
+  <Details Name="sc_petrol_details">
+  </Details>
+  
+  <Details Name="sc_petrol_rating">    
+  </Details>
+
+  <Details Name="sc_rewards_details">
+  </Details>
+  
+  <Details Name="sc_rewards_rating">   
+  </Details>
+
+  <Details Name="sc_shopping_details">
+  </Details>
+  
+  <Details Name="sc_shopping_rating">
+  </Details>
+
+  <Details Name="sc_student_details">
+  </Details>
+  
+  <Details Name="sc_student_rating">
+  </Details>
+
+  <Details Name="sc_main_image">
+  <Feature>./images/Citibank-DIVIDEND-Card.png</Feature></Details>
+
+</CreaditDetails>
